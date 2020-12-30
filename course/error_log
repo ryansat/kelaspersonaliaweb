@@ -1,0 +1,358 @@
+[22-May-2020 17:17:55 Asia/Jakarta] Database transaction aborted automatically in /home/u7147375/public_html/course/modedit.php
+[22-May-2020 17:19:24 Asia/Jakarta] Database transaction aborted automatically in /home/u7147375/public_html/course/modedit.php
+[22-May-2020 17:41:34 Asia/Jakarta] Database transaction aborted automatically in /home/u7147375/public_html/course/modedit.php
+[15-Jul-2020 14:12:07 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[11-Sep-2020 09:06:01 Asia/Jakarta] Potential coding error - active database transaction detected during request shutdown:
+* line 1042 of /lib/completionlib.php: call to moodle_database->start_delegated_transaction()
+* line 622 of /lib/completionlib.php: call to completion_info->internal_set_data()
+* line 164 of /course/togglecompletion.php: call to completion_info->update_state()
+
+[11-Sep-2020 19:07:02 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[11-Sep-2020 23:04:46 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[12-Sep-2020 11:30:11 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[12-Sep-2020 16:02:42 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[12-Sep-2020 21:02:03 Asia/Jakarta] Potential coding error - active database transaction detected during request shutdown:
+* line 1042 of /lib/completionlib.php: call to moodle_database->start_delegated_transaction()
+* line 622 of /lib/completionlib.php: call to completion_info->internal_set_data()
+* line 164 of /course/togglecompletion.php: call to completion_info->update_state()
+
+[12-Sep-2020 23:41:14 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[13-Sep-2020 18:51:51 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[14-Sep-2020 09:24:34 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[14-Sep-2020 11:57:57 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[14-Sep-2020 12:37:34 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[14-Sep-2020 14:25:51 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[14-Sep-2020 19:08:06 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[14-Sep-2020 23:32:58 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[15-Sep-2020 12:59:35 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[15-Sep-2020 16:12:23 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[15-Sep-2020 18:01:54 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[15-Sep-2020 19:30:58 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[15-Sep-2020 20:23:39 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[15-Sep-2020 20:46:16 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[16-Sep-2020 18:00:05 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[17-Sep-2020 08:44:52 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[17-Sep-2020 08:44:55 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[17-Sep-2020 08:58:28 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[17-Sep-2020 16:27:54 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[17-Sep-2020 17:40:56 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[17-Sep-2020 19:16:57 Asia/Jakarta] Potential coding error - active database transaction detected during request shutdown:
+* line 1042 of /lib/completionlib.php: call to moodle_database->start_delegated_transaction()
+* line 622 of /lib/completionlib.php: call to completion_info->internal_set_data()
+* line 164 of /course/togglecompletion.php: call to completion_info->update_state()
+
+[18-Sep-2020 13:15:10 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[18-Sep-2020 14:48:47 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[18-Sep-2020 16:14:46 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[19-Sep-2020 13:54:36 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[19-Sep-2020 15:06:36 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[19-Sep-2020 15:58:06 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[19-Sep-2020 16:12:16 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[20-Sep-2020 02:23:55 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[20-Sep-2020 12:14:21 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[20-Sep-2020 20:34:42 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[20-Sep-2020 21:44:23 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[21-Sep-2020 09:57:17 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[21-Sep-2020 11:19:12 Asia/Jakarta] Cannot find session record 69dba6994e2962212bd4478ececc1db2 for user 8661, creating new session.
+[21-Sep-2020 11:19:42 Asia/Jakarta] Cannot find session record bc0ef496e7e454b3c6af25b9838b60dd for user 10692, creating new session.
+[21-Sep-2020 11:19:47 Asia/Jakarta] Cannot find session record aee381d97ca43bb06fdbc336b67a4918 for user 10637, creating new session.
+[21-Sep-2020 11:20:05 Asia/Jakarta] Cannot find session record 8c950c0ce52200422410616979d04091 for user 2551, creating new session.
+[21-Sep-2020 11:20:30 Asia/Jakarta] Cannot find session record 8e15b5d6150eabc07fafb1909193ea94 for user 10634, creating new session.
+[21-Sep-2020 11:20:53 Asia/Jakarta] Cannot find session record dc0e85bfd578b6b4d0099ab159bb1eb5 for user 9155, creating new session.
+[21-Sep-2020 11:20:53 Asia/Jakarta] Cannot find session record f74d884bfc3ffa7fa45132af13fc7d45 for user 8939, creating new session.
+[21-Sep-2020 11:21:23 Asia/Jakarta] Cannot find session record 9cb414f6eee30b404802a5011a98d8f2 for user 10069, creating new session.
+[21-Sep-2020 11:24:33 Asia/Jakarta] Cannot find session record 187194c02566d154b19e0256dc2c82c8 for user 1, creating new session.
+[21-Sep-2020 12:20:08 Asia/Jakarta] Cannot find session record ef017c3d89a1de22030d842524585b25 for user 9089, creating new session.
+[21-Sep-2020 12:28:31 Asia/Jakarta] Cannot find session record 06283d5d0b483d187be7dd54d4bd2e4e for user 9089, creating new session.
+[21-Sep-2020 14:27:35 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[22-Sep-2020 04:32:01 Asia/Jakarta] Potential coding error - active database transaction detected during request shutdown:
+* line 1042 of /lib/completionlib.php: call to moodle_database->start_delegated_transaction()
+* line 622 of /lib/completionlib.php: call to completion_info->internal_set_data()
+* line 164 of /course/togglecompletion.php: call to completion_info->update_state()
+
+[22-Sep-2020 11:07:01 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[22-Sep-2020 12:41:00 Asia/Jakarta] Potential coding error - active database transaction detected during request shutdown:
+* line 1042 of /lib/completionlib.php: call to moodle_database->start_delegated_transaction()
+* line 622 of /lib/completionlib.php: call to completion_info->internal_set_data()
+* line 164 of /course/togglecompletion.php: call to completion_info->update_state()
+
+[22-Sep-2020 13:55:23 Asia/Jakarta] Potential coding error - active database transaction detected during request shutdown:
+* line 1042 of /lib/completionlib.php: call to moodle_database->start_delegated_transaction()
+* line 622 of /lib/completionlib.php: call to completion_info->internal_set_data()
+* line 164 of /course/togglecompletion.php: call to completion_info->update_state()
+
+[22-Sep-2020 18:17:21 Asia/Jakarta] Potential coding error - active database transaction detected during request shutdown:
+* line 1042 of /lib/completionlib.php: call to moodle_database->start_delegated_transaction()
+* line 622 of /lib/completionlib.php: call to completion_info->internal_set_data()
+* line 164 of /course/togglecompletion.php: call to completion_info->update_state()
+
+[23-Sep-2020 00:55:32 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[23-Sep-2020 06:22:06 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[23-Sep-2020 11:47:37 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[23-Sep-2020 15:41:26 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[23-Sep-2020 20:53:08 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[23-Sep-2020 22:04:00 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[24-Sep-2020 07:32:33 Asia/Jakarta] Potential coding error - active database transaction detected during request shutdown:
+* line 1042 of /lib/completionlib.php: call to moodle_database->start_delegated_transaction()
+* line 622 of /lib/completionlib.php: call to completion_info->internal_set_data()
+* line 164 of /course/togglecompletion.php: call to completion_info->update_state()
+
+[24-Sep-2020 13:16:35 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[24-Sep-2020 17:25:17 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[24-Sep-2020 17:25:18 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[24-Sep-2020 17:39:14 Asia/Jakarta] Potential coding error - active database transaction detected during request shutdown:
+* line 1042 of /lib/completionlib.php: call to moodle_database->start_delegated_transaction()
+* line 622 of /lib/completionlib.php: call to completion_info->internal_set_data()
+* line 164 of /course/togglecompletion.php: call to completion_info->update_state()
+
+[24-Sep-2020 19:26:14 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[24-Sep-2020 23:51:53 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[25-Sep-2020 12:30:32 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[25-Sep-2020 13:10:14 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[25-Sep-2020 22:42:00 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[26-Sep-2020 02:00:07 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[26-Sep-2020 15:50:36 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[27-Sep-2020 06:44:50 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[27-Sep-2020 20:47:07 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[27-Sep-2020 20:47:08 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[28-Sep-2020 08:36:11 Asia/Jakarta] Cannot find session record 21e1c483b83af933f321d528b55f4d7b for user 10176, creating new session.
+[28-Sep-2020 08:56:35 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[28-Sep-2020 11:52:03 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[28-Sep-2020 13:44:56 Asia/Jakarta] Cannot find session record 91c72ea5a0408b9c161aff23c0621be4 for user 10999, creating new session.
+[28-Sep-2020 15:40:30 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[28-Sep-2020 18:59:50 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[29-Sep-2020 07:37:48 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[29-Sep-2020 12:19:43 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[29-Sep-2020 14:47:31 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[29-Sep-2020 18:42:03 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[29-Sep-2020 18:57:35 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[29-Sep-2020 18:57:36 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[29-Sep-2020 18:57:39 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[29-Sep-2020 21:28:13 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[30-Sep-2020 12:14:39 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[30-Sep-2020 12:26:55 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[30-Sep-2020 12:26:56 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[30-Sep-2020 16:28:52 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[30-Sep-2020 16:28:52 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[30-Sep-2020 23:48:55 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[01-Oct-2020 00:50:56 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[01-Oct-2020 07:22:03 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[01-Oct-2020 08:01:57 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[01-Oct-2020 08:16:14 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[01-Oct-2020 08:31:37 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[01-Oct-2020 09:26:13 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[01-Oct-2020 09:26:24 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[01-Oct-2020 09:26:25 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[01-Oct-2020 09:59:07 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[01-Oct-2020 14:21:58 Asia/Jakarta] Potential coding error - active database transaction detected during request shutdown:
+* line 1042 of /lib/completionlib.php: call to moodle_database->start_delegated_transaction()
+* line 622 of /lib/completionlib.php: call to completion_info->internal_set_data()
+* line 164 of /course/togglecompletion.php: call to completion_info->update_state()
+
+[01-Oct-2020 20:17:21 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[02-Oct-2020 04:35:43 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[02-Oct-2020 11:37:56 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[02-Oct-2020 12:52:59 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[02-Oct-2020 13:24:27 Asia/Jakarta] Potential coding error - active database transaction detected during request shutdown:
+* line 1042 of /lib/completionlib.php: call to moodle_database->start_delegated_transaction()
+* line 622 of /lib/completionlib.php: call to completion_info->internal_set_data()
+* line 164 of /course/togglecompletion.php: call to completion_info->update_state()
+
+[02-Oct-2020 14:33:05 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[02-Oct-2020 15:35:36 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[02-Oct-2020 19:24:16 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[03-Oct-2020 00:36:52 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[03-Oct-2020 00:36:53 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[03-Oct-2020 00:36:59 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[03-Oct-2020 08:03:41 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[04-Oct-2020 01:50:02 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[04-Oct-2020 12:25:49 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[04-Oct-2020 14:47:07 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[05-Oct-2020 16:33:25 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[05-Oct-2020 19:12:26 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[05-Oct-2020 19:12:28 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[05-Oct-2020 21:04:50 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[06-Oct-2020 11:07:13 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[06-Oct-2020 20:30:57 Asia/Jakarta] Potential coding error - active database transaction detected during request shutdown:
+* line 1042 of /lib/completionlib.php: call to moodle_database->start_delegated_transaction()
+* line 622 of /lib/completionlib.php: call to completion_info->internal_set_data()
+* line 164 of /course/togglecompletion.php: call to completion_info->update_state()
+
+[07-Oct-2020 02:58:23 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[07-Oct-2020 09:33:33 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[07-Oct-2020 15:42:58 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[07-Oct-2020 18:43:18 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[07-Oct-2020 19:52:12 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[08-Oct-2020 10:45:04 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[08-Oct-2020 19:01:46 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[08-Oct-2020 20:22:31 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[09-Oct-2020 18:25:27 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[09-Oct-2020 20:42:01 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[09-Oct-2020 20:42:01 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[10-Oct-2020 21:36:45 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[11-Oct-2020 22:32:32 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[12-Oct-2020 07:16:02 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[12-Oct-2020 16:22:38 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[13-Oct-2020 10:01:16 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[13-Oct-2020 10:01:26 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[13-Oct-2020 10:06:26 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[13-Oct-2020 10:19:54 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[13-Oct-2020 10:19:56 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[13-Oct-2020 10:57:11 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[13-Oct-2020 17:13:29 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[14-Oct-2020 02:47:14 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[14-Oct-2020 10:00:44 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[14-Oct-2020 10:29:02 Asia/Jakarta] Potential coding error - active database transaction detected during request shutdown:
+* line 1042 of /lib/completionlib.php: call to moodle_database->start_delegated_transaction()
+* line 622 of /lib/completionlib.php: call to completion_info->internal_set_data()
+* line 164 of /course/togglecompletion.php: call to completion_info->update_state()
+
+[14-Oct-2020 15:21:42 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[16-Oct-2020 21:07:24 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[17-Oct-2020 19:55:56 Asia/Jakarta] Potential coding error - active database transaction detected during request shutdown:
+* line 1042 of /lib/completionlib.php: call to moodle_database->start_delegated_transaction()
+* line 622 of /lib/completionlib.php: call to completion_info->internal_set_data()
+* line 164 of /course/togglecompletion.php: call to completion_info->update_state()
+
+[18-Oct-2020 10:50:02 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[18-Oct-2020 10:50:02 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[20-Oct-2020 06:53:10 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[20-Oct-2020 12:49:03 Asia/Jakarta] Potential coding error - active database transaction detected during request shutdown:
+* line 1042 of /lib/completionlib.php: call to moodle_database->start_delegated_transaction()
+* line 622 of /lib/completionlib.php: call to completion_info->internal_set_data()
+* line 164 of /course/togglecompletion.php: call to completion_info->update_state()
+
+[20-Oct-2020 14:54:50 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[20-Oct-2020 21:09:08 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[21-Oct-2020 20:18:41 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[22-Oct-2020 08:39:33 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[23-Oct-2020 13:48:30 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[24-Oct-2020 20:05:37 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[25-Oct-2020 09:13:32 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[25-Oct-2020 19:44:20 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[26-Oct-2020 15:08:42 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[26-Oct-2020 15:37:00 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[26-Oct-2020 20:44:15 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[26-Oct-2020 20:50:58 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[27-Oct-2020 17:10:05 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[28-Oct-2020 11:31:55 Asia/Jakarta] Potential coding error - active database transaction detected during request shutdown:
+* line 1042 of /lib/completionlib.php: call to moodle_database->start_delegated_transaction()
+* line 622 of /lib/completionlib.php: call to completion_info->internal_set_data()
+* line 164 of /course/togglecompletion.php: call to completion_info->update_state()
+
+[30-Oct-2020 20:34:21 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[01-Nov-2020 21:47:35 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[02-Nov-2020 09:58:02 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[05-Nov-2020 12:53:46 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[09-Nov-2020 18:12:17 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[10-Nov-2020 09:35:03 Asia/Jakarta] Potential coding error - active database transaction detected during request shutdown:
+* line 1042 of /lib/completionlib.php: call to moodle_database->start_delegated_transaction()
+* line 622 of /lib/completionlib.php: call to completion_info->internal_set_data()
+* line 164 of /course/togglecompletion.php: call to completion_info->update_state()
+
+[10-Nov-2020 22:40:12 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[11-Nov-2020 07:15:02 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[11-Nov-2020 07:16:22 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[11-Nov-2020 10:29:03 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[11-Nov-2020 13:58:20 Asia/Jakarta] Potential coding error - active database transaction detected during request shutdown:
+* line 1042 of /lib/completionlib.php: call to moodle_database->start_delegated_transaction()
+* line 622 of /lib/completionlib.php: call to completion_info->internal_set_data()
+* line 164 of /course/togglecompletion.php: call to completion_info->update_state()
+
+[11-Nov-2020 20:49:37 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[12-Nov-2020 08:31:42 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[12-Nov-2020 08:31:55 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[12-Nov-2020 09:27:37 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[12-Nov-2020 11:42:24 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[12-Nov-2020 11:42:25 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[12-Nov-2020 19:05:14 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[12-Nov-2020 20:39:22 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[12-Nov-2020 20:42:34 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[13-Nov-2020 11:41:19 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[14-Nov-2020 23:32:37 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[17-Nov-2020 15:08:34 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[19-Nov-2020 07:38:47 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[19-Nov-2020 13:57:54 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[19-Nov-2020 20:01:41 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[20-Nov-2020 10:10:31 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[20-Nov-2020 12:31:50 Asia/Jakarta] Cannot find session record df3b0757e4914c7afef03c893617e5ba for user 18861, creating new session.
+[23-Nov-2020 12:42:51 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[24-Nov-2020 09:40:13 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[24-Nov-2020 22:09:18 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[25-Nov-2020 09:31:43 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[25-Nov-2020 10:10:37 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[26-Nov-2020 11:42:04 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[26-Nov-2020 11:42:07 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[26-Nov-2020 22:01:10 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[26-Nov-2020 22:01:11 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[26-Nov-2020 22:01:12 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[29-Nov-2020 11:05:30 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[30-Nov-2020 07:28:46 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[30-Nov-2020 07:28:47 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[30-Nov-2020 23:22:53 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[02-Dec-2020 10:08:28 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[02-Dec-2020 15:22:29 Asia/Jakarta] Potential coding error - active database transaction detected during request shutdown:
+* line 1042 of /lib/completionlib.php: call to moodle_database->start_delegated_transaction()
+* line 622 of /lib/completionlib.php: call to completion_info->internal_set_data()
+* line 164 of /course/togglecompletion.php: call to completion_info->update_state()
+
+[03-Dec-2020 06:20:07 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[03-Dec-2020 10:12:43 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[03-Dec-2020 23:27:35 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[03-Dec-2020 23:27:36 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[04-Dec-2020 11:39:21 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[05-Dec-2020 19:36:04 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[06-Dec-2020 13:32:14 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[07-Dec-2020 07:50:02 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[07-Dec-2020 11:19:15 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[07-Dec-2020 15:03:35 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[08-Dec-2020 07:35:42 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[08-Dec-2020 10:25:49 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[08-Dec-2020 10:25:51 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[08-Dec-2020 12:31:07 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[08-Dec-2020 12:31:10 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[08-Dec-2020 12:31:10 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[08-Dec-2020 12:58:56 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[08-Dec-2020 13:06:38 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[08-Dec-2020 13:40:42 Asia/Jakarta] Potential coding error - active database transaction detected during request shutdown:
+* line 1042 of /lib/completionlib.php: call to moodle_database->start_delegated_transaction()
+* line 622 of /lib/completionlib.php: call to completion_info->internal_set_data()
+* line 164 of /course/togglecompletion.php: call to completion_info->update_state()
+
+[08-Dec-2020 14:04:04 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[08-Dec-2020 20:11:33 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[08-Dec-2020 20:51:07 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[08-Dec-2020 22:29:31 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[09-Dec-2020 13:19:33 Asia/Jakarta] Cannot find session record 94114dfcb0e3fdd733c06fad4d262560 for user 17235, creating new session.
+[09-Dec-2020 20:34:41 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[10-Dec-2020 13:26:13 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[10-Dec-2020 13:53:21 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[10-Dec-2020 20:06:58 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[10-Dec-2020 20:36:42 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[11-Dec-2020 14:47:09 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[11-Dec-2020 14:47:12 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[11-Dec-2020 14:59:28 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[11-Dec-2020 15:53:51 Asia/Jakarta] Cannot find session record e6731a0d4d66c707d7f073abe729845c for user 21075, creating new session.
+[11-Dec-2020 16:07:48 Asia/Jakarta] Cannot find session record 5a3e62ad8d8a89326bf419e83d87b500 for user 21075, creating new session.
+[11-Dec-2020 21:21:21 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[12-Dec-2020 05:57:02 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[12-Dec-2020 05:57:04 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[12-Dec-2020 12:09:19 Asia/Jakarta] Potential coding error - active database transaction detected during request shutdown:
+* line 1042 of /lib/completionlib.php: call to moodle_database->start_delegated_transaction()
+* line 622 of /lib/completionlib.php: call to completion_info->internal_set_data()
+* line 164 of /course/togglecompletion.php: call to completion_info->update_state()
+
+[13-Dec-2020 07:37:07 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[13-Dec-2020 10:57:32 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[13-Dec-2020 12:59:59 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[14-Dec-2020 09:24:18 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[14-Dec-2020 11:01:37 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[14-Dec-2020 11:07:47 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[14-Dec-2020 11:07:48 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[14-Dec-2020 12:07:49 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[15-Dec-2020 00:09:00 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[15-Dec-2020 08:30:18 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[15-Dec-2020 10:19:13 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[20-Dec-2020 12:00:07 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[20-Dec-2020 13:01:15 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[20-Dec-2020 13:05:01 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database

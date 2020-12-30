@@ -1,0 +1,735 @@
+[18-Jul-2019 12:12:56 UTC] PHP Parse error:  syntax error, unexpected ':', expecting ';' or '{' in /home/u7147375/public_html/lib/classes/component.php on line 1162
+[18-Jul-2019 12:15:30 UTC] PHP Parse error:  syntax error, unexpected ':', expecting ';' or '{' in /home/u7147375/public_html/lib/classes/component.php on line 1162
+[18-Jul-2019 12:16:37 UTC] PHP Parse error:  syntax error, unexpected ':', expecting ';' or '{' in /home/u7147375/public_html/lib/classes/component.php on line 1162
+[18-Jul-2019 12:17:42 UTC] PHP Parse error:  syntax error, unexpected ':', expecting ';' or '{' in /home/u7147375/public_html/lib/classes/component.php on line 1162
+[18-Jul-2019 12:23:13 UTC] PHP Parse error:  syntax error, unexpected ':', expecting ';' or '{' in /home/u7147375/public_html/lib/classes/component.php on line 1162
+[18-Jul-2019 12:23:15 UTC] PHP Parse error:  syntax error, unexpected ':', expecting ';' or '{' in /home/u7147375/public_html/lib/classes/component.php on line 1162
+[18-Jul-2019 12:23:16 UTC] PHP Parse error:  syntax error, unexpected ':', expecting ';' or '{' in /home/u7147375/public_html/lib/classes/component.php on line 1162
+[18-Jul-2019 13:21:20 UTC] PHP Parse error:  syntax error, unexpected ':', expecting ';' or '{' in /home/u7147375/public_html/lib/classes/component.php on line 1162
+[01-Nov-2019 16:32:27 Asia/Jakarta] Cannot find session record 68a8f6b0fad755e8bc54d4eb833b87b1 for user 2, creating new session.
+[01-Nov-2019 16:32:27 Asia/Jakarta] Cannot find session record 68a8f6b0fad755e8bc54d4eb833b87b1 for user 2, creating new session.
+[01-Nov-2019 16:32:27 Asia/Jakarta] Cannot find session record 68a8f6b0fad755e8bc54d4eb833b87b1 for user 2, creating new session.
+[01-Nov-2019 16:32:27 Asia/Jakarta] Cannot find session record 68a8f6b0fad755e8bc54d4eb833b87b1 for user 2, creating new session.
+[01-Nov-2019 16:32:27 Asia/Jakarta] Cannot find session record 68a8f6b0fad755e8bc54d4eb833b87b1 for user 2, creating new session.
+[01-Nov-2019 16:32:27 Asia/Jakarta] Cannot find session record 68a8f6b0fad755e8bc54d4eb833b87b1 for user 2, creating new session.
+[01-Nov-2019 16:32:27 Asia/Jakarta] Cannot find session record 68a8f6b0fad755e8bc54d4eb833b87b1 for user 2, creating new session.
+[01-Nov-2019 16:32:27 Asia/Jakarta] Cannot find session record 68a8f6b0fad755e8bc54d4eb833b87b1 for user 2, creating new session.
+[01-Nov-2019 16:32:27 Asia/Jakarta] Cannot find session record 68a8f6b0fad755e8bc54d4eb833b87b1 for user 2, creating new session.
+[02-Nov-2019 06:13:12 Asia/Jakarta] Cannot find session record d2747e6f69c280b24eb74114002515a8 for user 2, creating new session.
+[02-Nov-2019 06:13:12 Asia/Jakarta] Cannot find session record d2747e6f69c280b24eb74114002515a8 for user 2, creating new session.
+[02-Nov-2019 06:50:51 Asia/Jakarta] Cannot find session record 36e5608171b905855170ed6a306fe14d for user 2, creating new session.
+[02-Nov-2019 06:50:51 Asia/Jakarta] Cannot find session record 36e5608171b905855170ed6a306fe14d for user 2, creating new session.
+[02-Nov-2019 22:08:29 Asia/Jakarta] Cannot find session record 3033d8eb3898a1472ef3e6ab8f16d37c for user 2, creating new session.
+[02-Nov-2019 22:08:29 Asia/Jakarta] Cannot find session record 3033d8eb3898a1472ef3e6ab8f16d37c for user 2, creating new session.
+[02-Nov-2019 22:08:29 Asia/Jakarta] Cannot find session record 3033d8eb3898a1472ef3e6ab8f16d37c for user 2, creating new session.
+[02-Nov-2019 22:08:29 Asia/Jakarta] Cannot find session record 3033d8eb3898a1472ef3e6ab8f16d37c for user 2, creating new session.
+[02-Nov-2019 22:08:29 Asia/Jakarta] Cannot find session record 3033d8eb3898a1472ef3e6ab8f16d37c for user 2, creating new session.
+[02-Nov-2019 22:08:29 Asia/Jakarta] Cannot find session record 3033d8eb3898a1472ef3e6ab8f16d37c for user 2, creating new session.
+[03-Nov-2019 08:08:55 Asia/Jakarta] Cannot find session record a18307ac4f83064df6b7a0b41df6483c for user 2, creating new session.
+[03-Nov-2019 08:08:55 Asia/Jakarta] Cannot find session record a18307ac4f83064df6b7a0b41df6483c for user 2, creating new session.
+[03-Nov-2019 08:08:55 Asia/Jakarta] Cannot find session record a18307ac4f83064df6b7a0b41df6483c for user 2, creating new session.
+[03-Nov-2019 08:08:55 Asia/Jakarta] Cannot find session record a18307ac4f83064df6b7a0b41df6483c for user 2, creating new session.
+[03-Nov-2019 08:08:55 Asia/Jakarta] Cannot find session record a18307ac4f83064df6b7a0b41df6483c for user 2, creating new session.
+[03-Nov-2019 08:08:55 Asia/Jakarta] Cannot find session record a18307ac4f83064df6b7a0b41df6483c for user 2, creating new session.
+[03-Nov-2019 08:08:55 Asia/Jakarta] Cannot find session record a18307ac4f83064df6b7a0b41df6483c for user 2, creating new session.
+[04-Nov-2019 17:40:24 Asia/Jakarta] Cannot find session record b3ae882fae7d35ff46763eef287ae36a for user 2, creating new session.
+[04-Nov-2019 17:40:24 Asia/Jakarta] Cannot find session record b3ae882fae7d35ff46763eef287ae36a for user 2, creating new session.
+[04-Nov-2019 17:40:24 Asia/Jakarta] Cannot find session record b3ae882fae7d35ff46763eef287ae36a for user 2, creating new session.
+[04-Nov-2019 17:40:24 Asia/Jakarta] Cannot find session record b3ae882fae7d35ff46763eef287ae36a for user 2, creating new session.
+[04-Nov-2019 17:40:24 Asia/Jakarta] Cannot find session record b3ae882fae7d35ff46763eef287ae36a for user 2, creating new session.
+[04-Nov-2019 17:40:24 Asia/Jakarta] Cannot find session record b3ae882fae7d35ff46763eef287ae36a for user 2, creating new session.
+[04-Nov-2019 17:40:24 Asia/Jakarta] Cannot find session record b3ae882fae7d35ff46763eef287ae36a for user 2, creating new session.
+[07-Nov-2019 22:13:39 Asia/Jakarta] Cannot find session record 129d662df551cebe83d9b8faabbc6311 for user 2, creating new session.
+[07-Nov-2019 22:13:39 Asia/Jakarta] Cannot find session record 129d662df551cebe83d9b8faabbc6311 for user 2, creating new session.
+[07-Nov-2019 22:13:39 Asia/Jakarta] Cannot find session record 129d662df551cebe83d9b8faabbc6311 for user 2, creating new session.
+[07-Nov-2019 22:13:39 Asia/Jakarta] Cannot find session record 129d662df551cebe83d9b8faabbc6311 for user 2, creating new session.
+[07-Nov-2019 22:13:39 Asia/Jakarta] Cannot find session record 129d662df551cebe83d9b8faabbc6311 for user 2, creating new session.
+[07-Nov-2019 22:13:39 Asia/Jakarta] Cannot find session record 129d662df551cebe83d9b8faabbc6311 for user 2, creating new session.
+[07-Nov-2019 22:13:39 Asia/Jakarta] Cannot find session record 129d662df551cebe83d9b8faabbc6311 for user 2, creating new session.
+[07-Nov-2019 22:13:39 Asia/Jakarta] Cannot find session record 129d662df551cebe83d9b8faabbc6311 for user 2, creating new session.
+[07-Nov-2019 22:13:39 Asia/Jakarta] Cannot find session record 129d662df551cebe83d9b8faabbc6311 for user 2, creating new session.
+[07-Nov-2019 22:13:39 Asia/Jakarta] Cannot find session record 129d662df551cebe83d9b8faabbc6311 for user 2, creating new session.
+[07-Nov-2019 22:13:39 Asia/Jakarta] Cannot find session record 129d662df551cebe83d9b8faabbc6311 for user 2, creating new session.
+[07-Nov-2019 22:13:39 Asia/Jakarta] Cannot find session record 129d662df551cebe83d9b8faabbc6311 for user 2, creating new session.
+[07-Nov-2019 22:13:39 Asia/Jakarta] Cannot find session record 129d662df551cebe83d9b8faabbc6311 for user 2, creating new session.
+[07-Nov-2019 22:13:39 Asia/Jakarta] Cannot find session record 129d662df551cebe83d9b8faabbc6311 for user 2, creating new session.
+[07-Nov-2019 22:13:40 Asia/Jakarta] Cannot find session record 129d662df551cebe83d9b8faabbc6311 for user 2, creating new session.
+[07-Nov-2019 22:13:40 Asia/Jakarta] Cannot find session record 129d662df551cebe83d9b8faabbc6311 for user 2, creating new session.
+[07-Nov-2019 22:13:40 Asia/Jakarta] Cannot find session record 129d662df551cebe83d9b8faabbc6311 for user 2, creating new session.
+[07-Nov-2019 22:13:40 Asia/Jakarta] Cannot find session record 129d662df551cebe83d9b8faabbc6311 for user 2, creating new session.
+[07-Nov-2019 22:13:40 Asia/Jakarta] Cannot find session record 129d662df551cebe83d9b8faabbc6311 for user 2, creating new session.
+[07-Nov-2019 22:15:39 Asia/Jakarta] Cannot find session record 00d3122d968d470efb5caf03c9e9e93f for user 2, creating new session.
+[07-Nov-2019 22:15:39 Asia/Jakarta] Cannot find session record 00d3122d968d470efb5caf03c9e9e93f for user 2, creating new session.
+[07-Nov-2019 22:15:39 Asia/Jakarta] Cannot find session record 00d3122d968d470efb5caf03c9e9e93f for user 2, creating new session.
+[08-Nov-2019 20:24:48 Asia/Jakarta] Cannot find session record 08d3906f1d23e57f60518a526a448e2e for user 2, creating new session.
+[08-Nov-2019 20:24:48 Asia/Jakarta] Cannot find session record 08d3906f1d23e57f60518a526a448e2e for user 2, creating new session.
+[08-Nov-2019 20:24:48 Asia/Jakarta] Cannot find session record 08d3906f1d23e57f60518a526a448e2e for user 2, creating new session.
+[08-Nov-2019 20:24:48 Asia/Jakarta] Cannot find session record 08d3906f1d23e57f60518a526a448e2e for user 2, creating new session.
+[08-Nov-2019 20:24:48 Asia/Jakarta] Cannot find session record 08d3906f1d23e57f60518a526a448e2e for user 2, creating new session.
+[08-Nov-2019 20:24:48 Asia/Jakarta] Cannot find session record 08d3906f1d23e57f60518a526a448e2e for user 2, creating new session.
+[08-Nov-2019 20:24:48 Asia/Jakarta] Cannot find session record 08d3906f1d23e57f60518a526a448e2e for user 2, creating new session.
+[08-Nov-2019 20:24:48 Asia/Jakarta] Cannot find session record 08d3906f1d23e57f60518a526a448e2e for user 2, creating new session.
+[08-Nov-2019 20:24:48 Asia/Jakarta] Cannot find session record 08d3906f1d23e57f60518a526a448e2e for user 2, creating new session.
+[08-Nov-2019 20:24:48 Asia/Jakarta] Cannot find session record 08d3906f1d23e57f60518a526a448e2e for user 2, creating new session.
+[08-Nov-2019 20:24:48 Asia/Jakarta] Cannot find session record 08d3906f1d23e57f60518a526a448e2e for user 2, creating new session.
+[08-Nov-2019 20:24:48 Asia/Jakarta] Cannot find session record 08d3906f1d23e57f60518a526a448e2e for user 2, creating new session.
+[08-Nov-2019 20:24:48 Asia/Jakarta] Cannot find session record 08d3906f1d23e57f60518a526a448e2e for user 2, creating new session.
+[08-Nov-2019 20:24:48 Asia/Jakarta] Cannot find session record 08d3906f1d23e57f60518a526a448e2e for user 2, creating new session.
+[08-Nov-2019 20:24:48 Asia/Jakarta] Cannot find session record 08d3906f1d23e57f60518a526a448e2e for user 2, creating new session.
+[08-Nov-2019 20:24:48 Asia/Jakarta] Cannot find session record 08d3906f1d23e57f60518a526a448e2e for user 2, creating new session.
+[08-Nov-2019 20:24:48 Asia/Jakarta] Cannot find session record 08d3906f1d23e57f60518a526a448e2e for user 2, creating new session.
+[08-Nov-2019 20:24:48 Asia/Jakarta] Cannot find session record 08d3906f1d23e57f60518a526a448e2e for user 2, creating new session.
+[09-Nov-2019 21:23:22 Asia/Jakarta] Cannot find session record fa90299f6a6c03e9abc9975a0dc970f6 for user 2, creating new session.
+[09-Nov-2019 21:23:22 Asia/Jakarta] Cannot find session record fa90299f6a6c03e9abc9975a0dc970f6 for user 2, creating new session.
+[09-Nov-2019 21:44:16 Asia/Jakarta] Cannot find session record ef9c06e634f16623b69149c946cd7792 for user 2, creating new session.
+[09-Nov-2019 21:44:16 Asia/Jakarta] Cannot find session record ef9c06e634f16623b69149c946cd7792 for user 2, creating new session.
+[10-Nov-2019 09:13:09 Asia/Jakarta] Cannot find session record 8f2ca572d54bd35603ce0b7f8ac0516e for user 2, creating new session.
+[10-Nov-2019 09:13:09 Asia/Jakarta] Cannot find session record 8f2ca572d54bd35603ce0b7f8ac0516e for user 2, creating new session.
+[13-Nov-2019 10:41:26 Asia/Jakarta] Cannot find session record 6e8f07cdcfa1625565ebfb105b404e9e for user 2, creating new session.
+[13-Nov-2019 10:41:26 Asia/Jakarta] Cannot find session record 6e8f07cdcfa1625565ebfb105b404e9e for user 2, creating new session.
+[13-Nov-2019 11:50:01 Asia/Jakarta] Cannot find session record 18ae1ce515c0774c6041f1e716f17b7a for user 2, creating new session.
+[13-Nov-2019 11:50:01 Asia/Jakarta] Cannot find session record 18ae1ce515c0774c6041f1e716f17b7a for user 2, creating new session.
+[13-Nov-2019 11:50:01 Asia/Jakarta] Cannot find session record 18ae1ce515c0774c6041f1e716f17b7a for user 2, creating new session.
+[13-Nov-2019 14:01:10 Asia/Jakarta] Cannot find session record f672101a531bc3add4525ce0c7f1d740 for user 2, creating new session.
+[13-Nov-2019 21:54:15 Asia/Jakarta] Cannot find session record deea057b3468ff815f16d6fcb483e0eb for user 2, creating new session.
+[13-Nov-2019 21:54:15 Asia/Jakarta] Cannot find session record deea057b3468ff815f16d6fcb483e0eb for user 2, creating new session.
+[14-Nov-2019 14:10:35 Asia/Jakarta] Cannot find session record 6c6e26b5fa9a3f88c29b770be8be264c for user 2, creating new session.
+[14-Nov-2019 14:10:35 Asia/Jakarta] Cannot find session record 6c6e26b5fa9a3f88c29b770be8be264c for user 2, creating new session.
+[14-Nov-2019 14:10:35 Asia/Jakarta] Cannot find session record 6c6e26b5fa9a3f88c29b770be8be264c for user 2, creating new session.
+[14-Nov-2019 14:10:35 Asia/Jakarta] Cannot find session record 6c6e26b5fa9a3f88c29b770be8be264c for user 2, creating new session.
+[14-Nov-2019 14:10:35 Asia/Jakarta] Cannot find session record 6c6e26b5fa9a3f88c29b770be8be264c for user 2, creating new session.
+[14-Nov-2019 15:11:39 Asia/Jakarta] Cannot find session record 490b3f45cafd86b630ae44bf795b1181 for user 2, creating new session.
+[14-Nov-2019 15:11:39 Asia/Jakarta] Cannot find session record 490b3f45cafd86b630ae44bf795b1181 for user 2, creating new session.
+[14-Nov-2019 15:11:39 Asia/Jakarta] Cannot find session record 490b3f45cafd86b630ae44bf795b1181 for user 2, creating new session.
+[17-Nov-2019 00:58:37 Asia/Jakarta] Cannot find session record ed4dc2fffc830a156befb256fa63c347 for user 2, creating new session.
+[17-Nov-2019 00:58:37 Asia/Jakarta] Cannot find session record ed4dc2fffc830a156befb256fa63c347 for user 2, creating new session.
+[17-Nov-2019 00:58:37 Asia/Jakarta] Cannot find session record ed4dc2fffc830a156befb256fa63c347 for user 2, creating new session.
+[17-Nov-2019 00:58:37 Asia/Jakarta] Cannot find session record ed4dc2fffc830a156befb256fa63c347 for user 2, creating new session.
+[17-Nov-2019 00:58:37 Asia/Jakarta] Cannot find session record ed4dc2fffc830a156befb256fa63c347 for user 2, creating new session.
+[17-Nov-2019 17:12:37 Asia/Jakarta] Cannot find session record 28daa9ba95627e08cba4553c028c2f68 for user 2, creating new session.
+[17-Nov-2019 17:41:26 Asia/Jakarta] Cannot find session record 0e02c77dfdc8b6b697c6f1f8ff8ee91d for user 2, creating new session.
+[17-Nov-2019 17:41:26 Asia/Jakarta] Cannot find session record 0e02c77dfdc8b6b697c6f1f8ff8ee91d for user 2, creating new session.
+[17-Nov-2019 17:41:26 Asia/Jakarta] Cannot find session record 0e02c77dfdc8b6b697c6f1f8ff8ee91d for user 2, creating new session.
+[17-Nov-2019 17:41:26 Asia/Jakarta] Cannot find session record 0e02c77dfdc8b6b697c6f1f8ff8ee91d for user 2, creating new session.
+[17-Nov-2019 18:39:50 Asia/Jakarta] Cannot find session record e42f634e0d91f9a70ad62ff76bdd1f84 for user 2, creating new session.
+[18-Nov-2019 12:33:48 Asia/Jakarta] Cannot find session record f217993db3441966d47ed8fab800f456 for user 2, creating new session.
+[18-Nov-2019 12:33:48 Asia/Jakarta] Cannot find session record f217993db3441966d47ed8fab800f456 for user 2, creating new session.
+[18-Nov-2019 12:33:48 Asia/Jakarta] Cannot find session record f217993db3441966d47ed8fab800f456 for user 2, creating new session.
+[19-Nov-2019 08:30:12 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[19-Nov-2019 10:51:04 Asia/Jakarta] Cannot find session record d054be1fa3fe015cc8a5eb319feaf508 for user 2, creating new session.
+[19-Nov-2019 10:51:04 Asia/Jakarta] Cannot find session record d054be1fa3fe015cc8a5eb319feaf508 for user 2, creating new session.
+[19-Nov-2019 10:51:04 Asia/Jakarta] Cannot find session record d054be1fa3fe015cc8a5eb319feaf508 for user 2, creating new session.
+[19-Nov-2019 10:51:04 Asia/Jakarta] Cannot find session record d054be1fa3fe015cc8a5eb319feaf508 for user 2, creating new session.
+[19-Nov-2019 12:52:13 Asia/Jakarta] Cannot find session record 022e3e085106ea4db04e54a97ad528f0 for user 2, creating new session.
+[19-Nov-2019 12:52:13 Asia/Jakarta] Cannot find session record 022e3e085106ea4db04e54a97ad528f0 for user 2, creating new session.
+[19-Nov-2019 12:52:13 Asia/Jakarta] Cannot find session record 022e3e085106ea4db04e54a97ad528f0 for user 2, creating new session.
+[19-Nov-2019 12:52:13 Asia/Jakarta] Cannot find session record 022e3e085106ea4db04e54a97ad528f0 for user 2, creating new session.
+[19-Nov-2019 12:52:13 Asia/Jakarta] Cannot find session record 022e3e085106ea4db04e54a97ad528f0 for user 2, creating new session.
+[19-Nov-2019 12:52:13 Asia/Jakarta] Cannot find session record 022e3e085106ea4db04e54a97ad528f0 for user 2, creating new session.
+[19-Nov-2019 12:52:13 Asia/Jakarta] Cannot find session record 022e3e085106ea4db04e54a97ad528f0 for user 2, creating new session.
+[19-Nov-2019 12:52:13 Asia/Jakarta] Cannot find session record 022e3e085106ea4db04e54a97ad528f0 for user 2, creating new session.
+[19-Nov-2019 12:52:13 Asia/Jakarta] Cannot find session record 022e3e085106ea4db04e54a97ad528f0 for user 2, creating new session.
+[19-Nov-2019 12:52:13 Asia/Jakarta] Cannot find session record 022e3e085106ea4db04e54a97ad528f0 for user 2, creating new session.
+[19-Nov-2019 12:52:13 Asia/Jakarta] Cannot find session record 022e3e085106ea4db04e54a97ad528f0 for user 2, creating new session.
+[19-Nov-2019 12:52:13 Asia/Jakarta] Cannot find session record 022e3e085106ea4db04e54a97ad528f0 for user 2, creating new session.
+[19-Nov-2019 12:52:13 Asia/Jakarta] Cannot find session record 022e3e085106ea4db04e54a97ad528f0 for user 2, creating new session.
+[19-Nov-2019 12:52:13 Asia/Jakarta] Cannot find session record 022e3e085106ea4db04e54a97ad528f0 for user 2, creating new session.
+[19-Nov-2019 12:52:13 Asia/Jakarta] Cannot find session record 022e3e085106ea4db04e54a97ad528f0 for user 2, creating new session.
+[19-Nov-2019 17:02:32 Asia/Jakarta] Cannot find session record bf4b820bac22d30beddd3d3543f3539a for user 2, creating new session.
+[19-Nov-2019 17:02:32 Asia/Jakarta] Cannot find session record bf4b820bac22d30beddd3d3543f3539a for user 2, creating new session.
+[19-Nov-2019 17:02:32 Asia/Jakarta] Cannot find session record bf4b820bac22d30beddd3d3543f3539a for user 2, creating new session.
+[19-Nov-2019 17:02:32 Asia/Jakarta] Cannot find session record bf4b820bac22d30beddd3d3543f3539a for user 2, creating new session.
+[19-Nov-2019 17:02:32 Asia/Jakarta] Cannot find session record bf4b820bac22d30beddd3d3543f3539a for user 2, creating new session.
+[19-Nov-2019 17:02:32 Asia/Jakarta] Cannot find session record bf4b820bac22d30beddd3d3543f3539a for user 2, creating new session.
+[19-Nov-2019 17:02:32 Asia/Jakarta] Cannot find session record bf4b820bac22d30beddd3d3543f3539a for user 2, creating new session.
+[21-Nov-2019 18:14:19 Asia/Jakarta] Cannot find session record 5c4c336491d61ff1704901367c26a3c8 for user 2, creating new session.
+[21-Nov-2019 18:22:12 Asia/Jakarta] Cannot find session record 13c1e6902b1a09f6019341def9ff8331 for user 2, creating new session.
+[21-Nov-2019 18:22:12 Asia/Jakarta] Cannot find session record 13c1e6902b1a09f6019341def9ff8331 for user 2, creating new session.
+[21-Nov-2019 18:22:12 Asia/Jakarta] Cannot find session record 13c1e6902b1a09f6019341def9ff8331 for user 2, creating new session.
+[21-Nov-2019 18:22:12 Asia/Jakarta] Cannot find session record 13c1e6902b1a09f6019341def9ff8331 for user 2, creating new session.
+[24-Nov-2019 04:40:26 Asia/Jakarta] Cannot find session record 6c29a6eb8437f75840d4164be838e8d3 for user 2, creating new session.
+[24-Nov-2019 04:40:26 Asia/Jakarta] Cannot find session record 6c29a6eb8437f75840d4164be838e8d3 for user 2, creating new session.
+[24-Nov-2019 04:40:26 Asia/Jakarta] Cannot find session record 6c29a6eb8437f75840d4164be838e8d3 for user 2, creating new session.
+[24-Nov-2019 04:40:26 Asia/Jakarta] Cannot find session record 6c29a6eb8437f75840d4164be838e8d3 for user 2, creating new session.
+[24-Nov-2019 04:40:26 Asia/Jakarta] Cannot find session record 6c29a6eb8437f75840d4164be838e8d3 for user 2, creating new session.
+[24-Nov-2019 04:40:26 Asia/Jakarta] Cannot find session record 6c29a6eb8437f75840d4164be838e8d3 for user 2, creating new session.
+[24-Nov-2019 05:28:36 Asia/Jakarta] Cannot find session record 6d6666b5c52994e506d6c2161eac1ecd for user 2, creating new session.
+[24-Nov-2019 05:28:36 Asia/Jakarta] Cannot find session record 6d6666b5c52994e506d6c2161eac1ecd for user 2, creating new session.
+[24-Nov-2019 05:28:36 Asia/Jakarta] Cannot find session record 6d6666b5c52994e506d6c2161eac1ecd for user 2, creating new session.
+[24-Nov-2019 05:28:36 Asia/Jakarta] Cannot find session record 6d6666b5c52994e506d6c2161eac1ecd for user 2, creating new session.
+[24-Nov-2019 05:28:36 Asia/Jakarta] Cannot find session record 6d6666b5c52994e506d6c2161eac1ecd for user 2, creating new session.
+[24-Nov-2019 05:28:36 Asia/Jakarta] Cannot find session record 6d6666b5c52994e506d6c2161eac1ecd for user 2, creating new session.
+[24-Nov-2019 05:28:36 Asia/Jakarta] Cannot find session record 6d6666b5c52994e506d6c2161eac1ecd for user 2, creating new session.
+[24-Nov-2019 05:28:36 Asia/Jakarta] Cannot find session record 6d6666b5c52994e506d6c2161eac1ecd for user 2, creating new session.
+[24-Nov-2019 05:28:36 Asia/Jakarta] Cannot find session record 6d6666b5c52994e506d6c2161eac1ecd for user 2, creating new session.
+[24-Nov-2019 05:28:36 Asia/Jakarta] Cannot find session record 6d6666b5c52994e506d6c2161eac1ecd for user 2, creating new session.
+[24-Nov-2019 05:28:36 Asia/Jakarta] Cannot find session record 6d6666b5c52994e506d6c2161eac1ecd for user 2, creating new session.
+[24-Nov-2019 05:28:36 Asia/Jakarta] Cannot find session record 6d6666b5c52994e506d6c2161eac1ecd for user 2, creating new session.
+[24-Nov-2019 05:28:36 Asia/Jakarta] Cannot find session record 6d6666b5c52994e506d6c2161eac1ecd for user 2, creating new session.
+[24-Nov-2019 05:28:36 Asia/Jakarta] Cannot find session record 6d6666b5c52994e506d6c2161eac1ecd for user 2, creating new session.
+[24-Nov-2019 05:28:36 Asia/Jakarta] Cannot find session record 6d6666b5c52994e506d6c2161eac1ecd for user 2, creating new session.
+[24-Nov-2019 05:28:37 Asia/Jakarta] Cannot find session record 6d6666b5c52994e506d6c2161eac1ecd for user 2, creating new session.
+[24-Nov-2019 05:28:37 Asia/Jakarta] Cannot find session record 6d6666b5c52994e506d6c2161eac1ecd for user 2, creating new session.
+[24-Nov-2019 05:28:37 Asia/Jakarta] Cannot find session record 6d6666b5c52994e506d6c2161eac1ecd for user 2, creating new session.
+[24-Nov-2019 05:28:37 Asia/Jakarta] Cannot find session record 6d6666b5c52994e506d6c2161eac1ecd for user 2, creating new session.
+[26-Nov-2019 06:43:00 Asia/Jakarta] Cannot find session record f707f0a012f0ae6322d3ac8258ec16a8 for user 1, creating new session.
+[06-Dec-2019 20:08:48 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[11-Dec-2019 16:34:55 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[15-Dec-2019 01:10:26 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[19-Dec-2019 17:46:38 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[08-Feb-2020 23:12:59 UTC] PHP Warning:  require_once(../config.php): failed to open stream: No such file or directory in /home/u7147375/public_html/index.php on line 25
+[08-Feb-2020 23:12:59 UTC] PHP Fatal error:  require_once(): Failed opening required '../config.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/u7147375/public_html/index.php on line 25
+[21-Mar-2020 21:00:24 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[23-Mar-2020 08:48:14 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[29-Mar-2020 09:38:30 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[08-Apr-2020 11:32:41 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[15-Apr-2020 10:11:51 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[18-May-2020 11:40:11 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[18-May-2020 16:29:24 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[19-May-2020 21:49:52 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[21-May-2020 13:52:48 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[22-May-2020 11:20:47 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[23-May-2020 03:13:44 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[23-May-2020 21:22:43 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[25-May-2020 08:40:19 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[27-May-2020 17:36:25 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[27-May-2020 20:50:01 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[27-May-2020 22:49:31 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[28-May-2020 12:59:10 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[28-May-2020 22:37:30 Asia/Jakarta] Cannot find session record 8fe72829d590dd651b8fc0b141e25dc5 for user 1, creating new session.
+[28-May-2020 22:37:30 Asia/Jakarta] Cannot find session record 8fe72829d590dd651b8fc0b141e25dc5 for user 1, creating new session.
+[28-May-2020 22:37:30 Asia/Jakarta] Cannot find session record 8fe72829d590dd651b8fc0b141e25dc5 for user 1, creating new session.
+[28-May-2020 22:37:30 Asia/Jakarta] Cannot find session record 8fe72829d590dd651b8fc0b141e25dc5 for user 1, creating new session.
+[28-May-2020 22:37:30 Asia/Jakarta] Cannot find session record 8fe72829d590dd651b8fc0b141e25dc5 for user 1, creating new session.
+[28-May-2020 22:37:30 Asia/Jakarta] Cannot find session record 8fe72829d590dd651b8fc0b141e25dc5 for user 1, creating new session.
+[28-May-2020 22:37:30 Asia/Jakarta] Cannot find session record 8fe72829d590dd651b8fc0b141e25dc5 for user 1, creating new session.
+[28-May-2020 22:37:30 Asia/Jakarta] Cannot find session record 8fe72829d590dd651b8fc0b141e25dc5 for user 1, creating new session.
+[28-May-2020 22:37:30 Asia/Jakarta] Cannot find session record 8fe72829d590dd651b8fc0b141e25dc5 for user 1, creating new session.
+[30-May-2020 21:55:08 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[03-Jun-2020 17:07:23 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[04-Jun-2020 18:25:38 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[04-Jun-2020 18:25:38 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[05-Jun-2020 20:54:14 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[08-Jun-2020 19:08:28 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[09-Jun-2020 18:04:57 Asia/Jakarta] Cannot find session record 9b4643966015a8c123893a641ce3425d for user 591, creating new session.
+[09-Jun-2020 18:04:57 Asia/Jakarta] Cannot find session record 9b4643966015a8c123893a641ce3425d for user 591, creating new session.
+[09-Jun-2020 19:51:54 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[13-Jun-2020 21:36:22 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[15-Jun-2020 12:29:23 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[17-Jun-2020 17:20:07 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[17-Jun-2020 21:59:42 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[21-Jun-2020 18:14:28 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[29-Jun-2020 14:18:02 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[30-Jun-2020 13:33:46 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[30-Jun-2020 19:03:12 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[01-Jul-2020 17:23:03 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[01-Jul-2020 17:36:09 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[10-Jul-2020 19:26:13 Asia/Jakarta] Cannot find session record 878263afc0be2bff6a6df34bfa7f81bc for user 1, creating new session.
+[14-Jul-2020 17:26:41 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[18-Jul-2020 06:00:55 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[22-Jul-2020 19:08:45 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[28-Jul-2020 16:31:02 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[29-Aug-2020 21:40:44 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[09-Sep-2020 18:07:58 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[10-Sep-2020 07:12:27 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[10-Sep-2020 11:38:36 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[10-Sep-2020 12:19:49 Asia/Jakarta] Cannot find session record cf4e5e5dcca1acf7502678ff17e57746 for user 1386, creating new session.
+[10-Sep-2020 14:37:45 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[10-Sep-2020 14:59:43 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[10-Sep-2020 14:59:46 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[10-Sep-2020 14:59:47 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[10-Sep-2020 15:24:53 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[10-Sep-2020 15:24:56 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[10-Sep-2020 15:35:28 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[10-Sep-2020 16:17:19 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[10-Sep-2020 18:05:00 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[10-Sep-2020 18:30:48 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[10-Sep-2020 18:59:55 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[10-Sep-2020 19:16:40 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[10-Sep-2020 20:15:44 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[10-Sep-2020 20:18:28 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[10-Sep-2020 20:49:25 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[10-Sep-2020 21:25:27 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[10-Sep-2020 22:37:07 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[10-Sep-2020 23:08:09 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[10-Sep-2020 23:13:14 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[11-Sep-2020 00:26:15 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[11-Sep-2020 01:02:22 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[11-Sep-2020 02:51:44 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[11-Sep-2020 06:23:51 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[11-Sep-2020 07:17:36 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[11-Sep-2020 07:22:43 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[11-Sep-2020 07:32:22 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[11-Sep-2020 07:48:35 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[11-Sep-2020 09:00:31 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[11-Sep-2020 10:13:59 Asia/Jakarta] Cannot find session record a984e4fdc856be5e3a8cbac8d489439e for user 1564, creating new session.
+[11-Sep-2020 13:07:46 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[11-Sep-2020 23:48:39 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[12-Sep-2020 00:08:16 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[12-Sep-2020 08:16:26 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[12-Sep-2020 09:26:27 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[12-Sep-2020 10:08:48 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[12-Sep-2020 10:35:09 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[12-Sep-2020 10:42:19 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[12-Sep-2020 11:52:12 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[12-Sep-2020 15:27:37 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[12-Sep-2020 16:28:36 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[12-Sep-2020 17:54:07 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[13-Sep-2020 03:25:17 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[13-Sep-2020 10:37:49 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[13-Sep-2020 13:33:41 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[13-Sep-2020 14:47:28 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[13-Sep-2020 14:49:19 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[13-Sep-2020 15:45:00 Asia/Jakarta] Cannot find session record 770d975a0a3628bef7b0e07c78e4583e for user 1336, creating new session.
+[13-Sep-2020 20:20:34 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[13-Sep-2020 21:37:35 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[13-Sep-2020 22:41:28 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[14-Sep-2020 03:25:53 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[14-Sep-2020 11:47:09 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[14-Sep-2020 11:47:10 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[14-Sep-2020 12:04:27 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[14-Sep-2020 12:19:17 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[14-Sep-2020 15:43:59 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[14-Sep-2020 18:23:52 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[14-Sep-2020 19:15:50 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[14-Sep-2020 21:38:03 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[15-Sep-2020 06:19:34 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[15-Sep-2020 09:34:18 Asia/Jakarta] Cannot find session record fe837ea66615c2e9156211dabc4560b1 for user 7185, creating new session.
+[15-Sep-2020 09:38:09 Asia/Jakarta] Cannot find session record 0e9de8b6f12636b3b66d005ad366f17f for user 7185, creating new session.
+[15-Sep-2020 09:38:09 Asia/Jakarta] Cannot find session record 0e9de8b6f12636b3b66d005ad366f17f for user 7185, creating new session.
+[15-Sep-2020 11:09:52 Asia/Jakarta] Cannot find session record c1f6ea04562b68c6f5666fea99195677 for user 3916, creating new session.
+[15-Sep-2020 11:09:52 Asia/Jakarta] Cannot find session record c1f6ea04562b68c6f5666fea99195677 for user 3916, creating new session.
+[15-Sep-2020 11:09:52 Asia/Jakarta] Cannot find session record c1f6ea04562b68c6f5666fea99195677 for user 3916, creating new session.
+[15-Sep-2020 23:04:54 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[16-Sep-2020 01:54:30 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[16-Sep-2020 02:30:12 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[16-Sep-2020 06:46:17 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[16-Sep-2020 11:05:00 Asia/Jakarta] Cannot find session record 8c3fef04241b0adaac5b0e1033e7cfd8 for user 7708, creating new session.
+[16-Sep-2020 11:05:00 Asia/Jakarta] Cannot find session record 8c3fef04241b0adaac5b0e1033e7cfd8 for user 7708, creating new session.
+[16-Sep-2020 11:05:00 Asia/Jakarta] Cannot find session record 8c3fef04241b0adaac5b0e1033e7cfd8 for user 7708, creating new session.
+[16-Sep-2020 11:05:00 Asia/Jakarta] Cannot find session record 8c3fef04241b0adaac5b0e1033e7cfd8 for user 7708, creating new session.
+[16-Sep-2020 19:40:04 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[16-Sep-2020 22:55:02 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[17-Sep-2020 10:56:09 Asia/Jakarta] Cannot find session record 09f6e2b50c8367c05c2300e164cbe123 for user 6779, creating new session.
+[17-Sep-2020 19:58:20 Asia/Jakarta] Cannot find session record 4bc7cf1e60b2e09dc3f2b219aeefe6d8 for user 1, creating new session.
+[17-Sep-2020 20:02:27 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[17-Sep-2020 21:24:34 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[17-Sep-2020 22:50:10 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[18-Sep-2020 03:37:31 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[18-Sep-2020 08:18:55 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[18-Sep-2020 08:24:17 Asia/Jakarta] Cannot find session record 3ced7d78c320d7e593661f445dfe5b59 for user 8498, creating new session.
+[18-Sep-2020 08:42:04 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[18-Sep-2020 09:04:54 Asia/Jakarta] Cannot find session record 10b8bc6f3687e39182f8363ae8e39fa1 for user 6867, creating new session.
+[18-Sep-2020 09:04:54 Asia/Jakarta] Cannot find session record 10b8bc6f3687e39182f8363ae8e39fa1 for user 6867, creating new session.
+[18-Sep-2020 09:06:46 Asia/Jakarta] Cannot find session record ad45d15e60646b9d02bef59c22ab56d6 for user 8173, creating new session.
+[18-Sep-2020 09:06:46 Asia/Jakarta] Cannot find session record ad45d15e60646b9d02bef59c22ab56d6 for user 8173, creating new session.
+[18-Sep-2020 09:06:46 Asia/Jakarta] Cannot find session record ad45d15e60646b9d02bef59c22ab56d6 for user 8173, creating new session.
+[18-Sep-2020 09:34:31 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[18-Sep-2020 19:23:13 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[18-Sep-2020 19:52:12 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[18-Sep-2020 21:19:31 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[18-Sep-2020 23:05:35 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[18-Sep-2020 23:14:17 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[19-Sep-2020 05:20:36 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[19-Sep-2020 11:44:32 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[19-Sep-2020 14:36:14 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[19-Sep-2020 20:20:15 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[19-Sep-2020 21:07:39 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[20-Sep-2020 08:40:39 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[20-Sep-2020 09:18:31 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[20-Sep-2020 10:38:15 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[20-Sep-2020 11:43:35 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[20-Sep-2020 12:46:13 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[20-Sep-2020 13:03:31 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[20-Sep-2020 15:46:46 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[20-Sep-2020 15:55:05 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[20-Sep-2020 23:11:06 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[21-Sep-2020 06:44:14 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[21-Sep-2020 08:14:24 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[21-Sep-2020 08:42:59 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[21-Sep-2020 08:44:57 Asia/Jakarta] Cannot find session record 2f049acc14073e3510c49bf65fa5f9a3 for user 10411, creating new session.
+[21-Sep-2020 09:28:32 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[21-Sep-2020 09:52:50 Asia/Jakarta] Cannot find session record d6649dbc3a9f9baddc014d3515154997 for user 10620, creating new session.
+[21-Sep-2020 10:35:12 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[21-Sep-2020 10:38:25 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[21-Sep-2020 11:18:30 Asia/Jakarta] Cannot find session record f5e2580972cbe8597c67a4c62430fd15 for user 1, creating new session.
+[21-Sep-2020 11:18:30 Asia/Jakarta] Cannot find session record f5e2580972cbe8597c67a4c62430fd15 for user 1, creating new session.
+[21-Sep-2020 11:19:13 Asia/Jakarta] Cannot find session record 6bcf491ad26229260c8f45e01df77bbf for user 10683, creating new session.
+[21-Sep-2020 11:19:15 Asia/Jakarta] Cannot find session record 37ebaf932815cb91cfb23faaa6deb982 for user 10402, creating new session.
+[21-Sep-2020 11:19:15 Asia/Jakarta] Cannot find session record 646d3a86f36d050c71400f080d0363f9 for user 10713, creating new session.
+[21-Sep-2020 11:19:19 Asia/Jakarta] Cannot find session record 2232d3831d8d055ba5fd79cd8c19de9d for user 10694, creating new session.
+[21-Sep-2020 11:19:27 Asia/Jakarta] Cannot find session record 1a72c6e3267de0360d6333ed7a419c5b for user 8719, creating new session.
+[21-Sep-2020 11:19:38 Asia/Jakarta] Cannot find session record 66a46bc3d40a7a5d5ef1651194aaad11 for user 1, creating new session.
+[21-Sep-2020 11:19:41 Asia/Jakarta] Cannot find session record 80f3c64e4a6c4802e1648563cbb3079a for user 9745, creating new session.
+[21-Sep-2020 11:19:48 Asia/Jakarta] Cannot find session record 406ccb7c40cd65f5cacc83c7cfc736e5 for user 1, creating new session.
+[21-Sep-2020 11:20:03 Asia/Jakarta] Cannot find session record bbbd2fae30ba7a15a2c9a25743bbfd8d for user 10655, creating new session.
+[21-Sep-2020 11:20:24 Asia/Jakarta] Cannot find session record 35f779b8bff9598bc5f7e166af2f850c for user 9739, creating new session.
+[21-Sep-2020 11:20:25 Asia/Jakarta] Cannot find session record 0ffc13cd968753e1036bbd9277082ae3 for user 9888, creating new session.
+[21-Sep-2020 11:20:36 Asia/Jakarta] Cannot find session record 480d3e0485097cd680ee6f1324d11cfd for user 10693, creating new session.
+[21-Sep-2020 11:20:43 Asia/Jakarta] Cannot find session record 336a2f551d71dde6742ffabf1832f952 for user 10261, creating new session.
+[21-Sep-2020 11:20:44 Asia/Jakarta] Cannot find session record 1d1897ed7311e81c8d280dc987f6eecd for user 6585, creating new session.
+[21-Sep-2020 11:20:58 Asia/Jakarta] Cannot find session record e70a7a61e839d8d756a1f2b53140cf46 for user 10675, creating new session.
+[21-Sep-2020 11:21:10 Asia/Jakarta] Cannot find session record d33d4c9269b6c9f1498488f895f7002f for user 8051, creating new session.
+[21-Sep-2020 11:21:13 Asia/Jakarta] Cannot find session record 8dde182ab58a19f5edc1912fcbc471dc for user 10678, creating new session.
+[21-Sep-2020 11:21:15 Asia/Jakarta] Cannot find session record 55b064d03d845c3232ab0b51bedbd409 for user 10649, creating new session.
+[21-Sep-2020 11:22:14 Asia/Jakarta] Cannot find session record dcc5e202062dd736f3d6cd8ac5fcccfc for user 9666, creating new session.
+[21-Sep-2020 11:22:34 Asia/Jakarta] Cannot find session record d057dc53a166259ad2b537e4f0d30a8f for user 8044, creating new session.
+[21-Sep-2020 11:23:33 Asia/Jakarta] Cannot find session record 6ec6e4f2f657b7c0468e9bda83b92cf9 for user 710, creating new session.
+[21-Sep-2020 11:23:38 Asia/Jakarta] Cannot find session record ea07817cc8f2ef62f04ae08ac6248063 for user 1, creating new session.
+[21-Sep-2020 11:24:42 Asia/Jakarta] Cannot find session record b726af7c68b81ebe1535ffa23f856881 for user 1, creating new session.
+[21-Sep-2020 11:40:07 Asia/Jakarta] Cannot find session record 152a3e1cd1fb58de11292c0df593e9e9 for user 9183, creating new session.
+[21-Sep-2020 11:43:08 Asia/Jakarta] Cannot find session record ef8db548ed52e2224a8c748eaa64582c for user 1485, creating new session.
+[21-Sep-2020 11:43:08 Asia/Jakarta] Cannot find session record ef8db548ed52e2224a8c748eaa64582c for user 1485, creating new session.
+[21-Sep-2020 11:55:07 Asia/Jakarta] Cannot find session record 4e1d03102a63d0ccd94d9d042af52daa for user 6922, creating new session.
+[21-Sep-2020 12:03:21 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[21-Sep-2020 13:06:37 Asia/Jakarta] Cannot find session record 75d631aa53efec23452af6de5bcfb702 for user 9500, creating new session.
+[21-Sep-2020 13:06:37 Asia/Jakarta] Cannot find session record 75d631aa53efec23452af6de5bcfb702 for user 9500, creating new session.
+[21-Sep-2020 13:36:53 Asia/Jakarta] Cannot find session record 04b1cfd9ca11cadd2952df3016a4fbd5 for user 10498, creating new session.
+[21-Sep-2020 23:05:57 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[22-Sep-2020 05:18:27 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[22-Sep-2020 08:50:09 Asia/Jakarta] Cannot find session record f8c7915151fd5f61f64eea2adf651bc4 for user 1, creating new session.
+[22-Sep-2020 09:37:24 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[22-Sep-2020 10:02:06 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[22-Sep-2020 10:53:49 Asia/Jakarta] Cannot find session record 70cbc8eab68be469f0822748408f8a5b for user 1, creating new session.
+[22-Sep-2020 12:31:50 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[22-Sep-2020 12:47:34 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[22-Sep-2020 13:02:15 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[22-Sep-2020 17:10:36 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[22-Sep-2020 17:52:16 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[22-Sep-2020 18:04:37 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[22-Sep-2020 20:39:56 Asia/Jakarta] Cannot find session record 72512a081064c8d3de37ba03d234aeb9 for user 1, creating new session.
+[22-Sep-2020 23:34:47 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[23-Sep-2020 03:07:31 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[23-Sep-2020 07:32:12 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[23-Sep-2020 07:32:20 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[23-Sep-2020 07:50:49 Asia/Jakarta] Cannot find session record 3e3c4f5fa1ba9ff12f388e4425a43f6f for user 10783, creating new session.
+[23-Sep-2020 07:50:49 Asia/Jakarta] Cannot find session record 3e3c4f5fa1ba9ff12f388e4425a43f6f for user 10783, creating new session.
+[23-Sep-2020 07:50:49 Asia/Jakarta] Cannot find session record 3e3c4f5fa1ba9ff12f388e4425a43f6f for user 10783, creating new session.
+[23-Sep-2020 07:50:49 Asia/Jakarta] Cannot find session record 3e3c4f5fa1ba9ff12f388e4425a43f6f for user 10783, creating new session.
+[23-Sep-2020 07:50:49 Asia/Jakarta] Cannot find session record 3e3c4f5fa1ba9ff12f388e4425a43f6f for user 10783, creating new session.
+[23-Sep-2020 07:50:49 Asia/Jakarta] Cannot find session record 3e3c4f5fa1ba9ff12f388e4425a43f6f for user 10783, creating new session.
+[23-Sep-2020 07:50:49 Asia/Jakarta] Cannot find session record 3e3c4f5fa1ba9ff12f388e4425a43f6f for user 10783, creating new session.
+[23-Sep-2020 07:50:49 Asia/Jakarta] Cannot find session record 3e3c4f5fa1ba9ff12f388e4425a43f6f for user 10783, creating new session.
+[23-Sep-2020 07:50:49 Asia/Jakarta] Cannot find session record 3e3c4f5fa1ba9ff12f388e4425a43f6f for user 10783, creating new session.
+[23-Sep-2020 07:50:49 Asia/Jakarta] Cannot find session record 3e3c4f5fa1ba9ff12f388e4425a43f6f for user 10783, creating new session.
+[23-Sep-2020 08:03:49 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[23-Sep-2020 09:04:01 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[23-Sep-2020 09:51:32 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[23-Sep-2020 10:34:37 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[23-Sep-2020 10:44:32 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[23-Sep-2020 12:55:15 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[23-Sep-2020 18:06:42 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[23-Sep-2020 20:49:29 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[23-Sep-2020 21:47:58 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[24-Sep-2020 09:09:32 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[24-Sep-2020 09:13:46 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[24-Sep-2020 09:45:11 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[24-Sep-2020 17:02:07 Asia/Jakarta] Cannot find session record d968389146d6e30e564a9b2051fd1195 for user 11851, creating new session.
+[24-Sep-2020 21:44:17 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[25-Sep-2020 08:35:45 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[25-Sep-2020 14:04:50 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[25-Sep-2020 17:41:03 Asia/Jakarta] Cannot find session record 086c70f2ca827b151bdf26eadb07138b for user 1, creating new session.
+[25-Sep-2020 21:59:56 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[26-Sep-2020 01:48:46 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[26-Sep-2020 05:23:03 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[26-Sep-2020 11:34:02 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[26-Sep-2020 19:15:35 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[26-Sep-2020 20:50:30 Asia/Jakarta] Cannot find session record a5c16fa9c4db596269824e9376db32f2 for user 7671, creating new session.
+[27-Sep-2020 05:51:39 Asia/Jakarta] Cannot find session record 3c42633433529ac1d251f84ebbb7047e for user 1, creating new session.
+[27-Sep-2020 09:33:49 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[27-Sep-2020 21:05:08 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[27-Sep-2020 21:32:58 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[28-Sep-2020 08:19:00 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[28-Sep-2020 09:08:45 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[28-Sep-2020 09:26:51 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[28-Sep-2020 09:33:03 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[28-Sep-2020 09:43:31 Asia/Jakarta] Cannot find session record befbc8f55a5523db779a049b38ae1474 for user 12900, creating new session.
+[28-Sep-2020 09:43:31 Asia/Jakarta] Cannot find session record befbc8f55a5523db779a049b38ae1474 for user 12900, creating new session.
+[28-Sep-2020 10:33:46 Asia/Jakarta] Cannot find session record 0cec0a0b60dc7520b3bf77e874b4f038 for user 13105, creating new session.
+[28-Sep-2020 10:33:46 Asia/Jakarta] Cannot find session record 0cec0a0b60dc7520b3bf77e874b4f038 for user 13105, creating new session.
+[28-Sep-2020 10:33:46 Asia/Jakarta] Cannot find session record 0cec0a0b60dc7520b3bf77e874b4f038 for user 13105, creating new session.
+[28-Sep-2020 10:33:46 Asia/Jakarta] Cannot find session record 0cec0a0b60dc7520b3bf77e874b4f038 for user 13105, creating new session.
+[28-Sep-2020 10:42:36 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[28-Sep-2020 11:13:49 Asia/Jakarta] Cannot find session record ce53abffb8063c32ab73be1a6d834015 for user 11004, creating new session.
+[28-Sep-2020 12:09:51 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[28-Sep-2020 13:37:48 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[28-Sep-2020 14:29:44 Asia/Jakarta] Cannot find session record 3facf2ee5f3c8097615a891109ed6f17 for user 1, creating new session.
+[28-Sep-2020 15:02:34 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[28-Sep-2020 15:07:12 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[28-Sep-2020 19:14:55 Asia/Jakarta] Cannot find session record 59fa37906304b1ecdc1a9e6a41ec63ab for user 1, creating new session.
+[29-Sep-2020 08:05:47 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[29-Sep-2020 08:53:46 Asia/Jakarta] Cannot find session record c9df96ac35c515d3468b6fee6a588a95 for user 1, creating new session.
+[29-Sep-2020 11:04:04 Asia/Jakarta] Cannot find session record d58553bb61e4e825c8df6307601ebf9a for user 13048, creating new session.
+[29-Sep-2020 13:31:42 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[29-Sep-2020 17:11:27 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[29-Sep-2020 17:12:23 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[29-Sep-2020 18:12:51 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[30-Sep-2020 13:53:52 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[30-Sep-2020 20:46:10 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[01-Oct-2020 09:40:59 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[01-Oct-2020 10:08:53 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[01-Oct-2020 11:59:21 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[01-Oct-2020 12:16:01 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[01-Oct-2020 15:15:39 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[01-Oct-2020 19:24:30 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[02-Oct-2020 00:54:08 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[02-Oct-2020 08:38:21 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[02-Oct-2020 10:15:22 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[02-Oct-2020 18:44:12 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[02-Oct-2020 19:54:23 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[02-Oct-2020 22:22:09 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[03-Oct-2020 11:59:46 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[03-Oct-2020 13:53:06 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[03-Oct-2020 13:56:08 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[03-Oct-2020 19:36:03 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[03-Oct-2020 20:36:23 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[04-Oct-2020 07:11:15 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[04-Oct-2020 09:05:20 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[04-Oct-2020 10:23:57 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[04-Oct-2020 19:03:59 Asia/Jakarta] Cannot find session record 4798ea42aa29a022fe9dae4104ddccad for user 1, creating new session.
+[04-Oct-2020 20:45:53 Asia/Jakarta] Cannot find session record 4fa5f542eef0175c75fd2fbc74a3a0e0 for user 1, creating new session.
+[05-Oct-2020 12:26:53 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[05-Oct-2020 18:22:53 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[05-Oct-2020 21:59:24 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[06-Oct-2020 09:39:57 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[06-Oct-2020 10:46:43 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[06-Oct-2020 13:29:43 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[06-Oct-2020 13:29:45 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[06-Oct-2020 13:29:45 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[06-Oct-2020 13:29:48 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[06-Oct-2020 17:38:26 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[06-Oct-2020 18:10:02 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[07-Oct-2020 02:04:53 Asia/Jakarta] Cannot find session record 2c045ae28122714e3126e7bd1c252168 for user 15460, creating new session.
+[07-Oct-2020 10:30:32 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[07-Oct-2020 13:28:53 Asia/Jakarta] Cannot find session record 36c49265a7bea194ae1b454f72a685c2 for user 15549, creating new session.
+[07-Oct-2020 14:34:03 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[07-Oct-2020 20:08:21 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[07-Oct-2020 20:24:28 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[07-Oct-2020 22:49:31 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[08-Oct-2020 02:02:56 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[08-Oct-2020 12:58:10 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[08-Oct-2020 14:41:30 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[09-Oct-2020 09:17:10 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[09-Oct-2020 20:08:33 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[10-Oct-2020 19:30:20 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[10-Oct-2020 19:51:21 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[11-Oct-2020 12:37:00 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[11-Oct-2020 17:30:50 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[11-Oct-2020 19:27:03 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[11-Oct-2020 21:44:29 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[11-Oct-2020 21:47:05 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[11-Oct-2020 21:47:06 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[11-Oct-2020 21:47:08 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[12-Oct-2020 12:42:46 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[12-Oct-2020 16:24:40 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[13-Oct-2020 10:11:44 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[13-Oct-2020 10:12:11 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[13-Oct-2020 10:38:24 Asia/Jakarta] Cannot find session record f326865477b78f3f21ad96ef967277d3 for user 1, creating new session.
+[13-Oct-2020 11:16:40 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[13-Oct-2020 14:10:39 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[13-Oct-2020 19:43:00 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[14-Oct-2020 11:08:27 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[14-Oct-2020 14:12:15 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[14-Oct-2020 16:30:13 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[14-Oct-2020 16:30:14 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[15-Oct-2020 05:59:53 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[15-Oct-2020 10:16:23 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[15-Oct-2020 11:17:06 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[15-Oct-2020 11:23:03 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[16-Oct-2020 05:44:47 Asia/Jakarta] Cannot find session record 323aa090f90a3bc0227382dce5725754 for user 15970, creating new session.
+[16-Oct-2020 10:19:34 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[16-Oct-2020 14:15:34 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[16-Oct-2020 18:33:41 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[16-Oct-2020 21:58:39 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[16-Oct-2020 23:23:44 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[18-Oct-2020 08:03:58 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[18-Oct-2020 11:28:44 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[18-Oct-2020 13:55:22 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[18-Oct-2020 21:41:37 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[19-Oct-2020 10:33:43 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[19-Oct-2020 11:24:03 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[19-Oct-2020 17:20:06 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[19-Oct-2020 17:40:54 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[19-Oct-2020 17:44:41 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[20-Oct-2020 08:13:29 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[20-Oct-2020 09:28:43 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[20-Oct-2020 09:46:59 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[21-Oct-2020 11:51:41 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[21-Oct-2020 11:56:06 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[21-Oct-2020 14:04:05 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[21-Oct-2020 16:14:46 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[21-Oct-2020 16:14:47 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[22-Oct-2020 16:40:28 Asia/Jakarta] Cannot find session record d48c96d23e9c4ea87918c4ab9926ef7d for user 1, creating new session.
+[22-Oct-2020 16:42:46 Asia/Jakarta] Cannot find session record abb2e08b93602e67f335a77a64976118 for user 1, creating new session.
+[22-Oct-2020 22:22:28 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[23-Oct-2020 10:35:49 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[23-Oct-2020 14:18:59 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[23-Oct-2020 18:15:57 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[24-Oct-2020 00:06:25 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[26-Oct-2020 03:50:09 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[26-Oct-2020 14:26:08 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[26-Oct-2020 16:32:29 Asia/Jakarta] Cannot find session record d83c02b13075fbe3ab39a68fbf17f5ca for user 1, creating new session.
+[27-Oct-2020 21:56:41 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[30-Oct-2020 22:15:17 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[31-Oct-2020 09:08:41 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[31-Oct-2020 09:09:15 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[01-Nov-2020 07:23:19 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[02-Nov-2020 16:42:23 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[03-Nov-2020 16:35:29 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[05-Nov-2020 15:11:03 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[07-Nov-2020 22:26:39 Asia/Jakarta] Cannot find session record b8cf08ab3af809c1001df67b29531b01 for user 17939, creating new session.
+[08-Nov-2020 14:12:02 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[08-Nov-2020 19:58:26 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[08-Nov-2020 19:58:27 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[08-Nov-2020 21:08:47 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[09-Nov-2020 10:35:16 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[09-Nov-2020 15:43:41 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[10-Nov-2020 18:03:54 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[10-Nov-2020 22:37:47 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[11-Nov-2020 10:10:29 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[11-Nov-2020 13:36:35 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[11-Nov-2020 18:43:35 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[12-Nov-2020 08:09:02 Asia/Jakarta] Cannot find session record 9c52226efdf727615ab2615780ea8298 for user 18155, creating new session.
+[12-Nov-2020 12:05:19 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[12-Nov-2020 23:48:23 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[13-Nov-2020 05:52:12 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[13-Nov-2020 07:33:05 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[15-Nov-2020 08:26:58 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[16-Nov-2020 19:58:05 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[17-Nov-2020 18:41:27 Asia/Jakarta] Cannot find session record a1ebe40ab217a52d7e191b6a0106e525 for user 18738, creating new session.
+[17-Nov-2020 21:27:22 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[18-Nov-2020 16:03:10 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[18-Nov-2020 19:54:37 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[20-Nov-2020 17:02:21 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[20-Nov-2020 22:03:39 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[23-Nov-2020 10:47:29 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[23-Nov-2020 14:17:46 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[26-Nov-2020 10:21:09 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[26-Nov-2020 18:50:47 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[27-Nov-2020 13:50:53 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[27-Nov-2020 18:30:28 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[29-Nov-2020 20:49:05 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[30-Nov-2020 10:12:04 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[30-Nov-2020 11:04:41 Asia/Jakarta] Cannot find session record f49275ab78f3eff22dc501c6df831d02 for user 19355, creating new session.
+[30-Nov-2020 11:04:41 Asia/Jakarta] Cannot find session record f49275ab78f3eff22dc501c6df831d02 for user 19355, creating new session.
+[30-Nov-2020 15:02:44 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[30-Nov-2020 20:15:36 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[30-Nov-2020 20:15:36 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[30-Nov-2020 20:46:45 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[01-Dec-2020 12:18:35 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[01-Dec-2020 20:04:00 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[01-Dec-2020 22:23:00 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[02-Dec-2020 05:44:44 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[02-Dec-2020 10:41:54 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[02-Dec-2020 11:07:27 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[02-Dec-2020 15:22:25 Asia/Jakarta] Cannot find session record 521143be5acde4eb0b360927108769dd for user 1, creating new session.
+[02-Dec-2020 15:22:25 Asia/Jakarta] Cannot find session record 521143be5acde4eb0b360927108769dd for user 1, creating new session.
+[02-Dec-2020 16:53:44 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[02-Dec-2020 20:32:08 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[02-Dec-2020 21:31:30 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[02-Dec-2020 21:31:30 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[02-Dec-2020 23:36:03 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[03-Dec-2020 17:56:17 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[05-Dec-2020 10:37:21 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[06-Dec-2020 07:01:13 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[06-Dec-2020 07:08:01 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[06-Dec-2020 07:43:58 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[06-Dec-2020 21:47:44 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[06-Dec-2020 21:47:48 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[06-Dec-2020 21:47:48 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[07-Dec-2020 17:00:16 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[08-Dec-2020 14:59:20 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[08-Dec-2020 19:39:35 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[08-Dec-2020 19:39:36 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[08-Dec-2020 19:39:37 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[08-Dec-2020 19:39:40 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[08-Dec-2020 19:39:42 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[09-Dec-2020 06:11:38 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[09-Dec-2020 16:22:54 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[09-Dec-2020 20:58:43 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[10-Dec-2020 01:57:02 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[10-Dec-2020 09:59:36 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[10-Dec-2020 14:12:47 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[10-Dec-2020 16:08:23 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[10-Dec-2020 17:40:17 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[10-Dec-2020 18:46:10 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[10-Dec-2020 19:07:00 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[10-Dec-2020 19:42:01 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[11-Dec-2020 00:09:28 Asia/Jakarta] Cannot find session record aa66755459167bf13ebe347d8d2d657e for user 20975, creating new session.
+[11-Dec-2020 00:09:28 Asia/Jakarta] Cannot find session record aa66755459167bf13ebe347d8d2d657e for user 20975, creating new session.
+[11-Dec-2020 00:09:28 Asia/Jakarta] Cannot find session record aa66755459167bf13ebe347d8d2d657e for user 20975, creating new session.
+[11-Dec-2020 00:09:28 Asia/Jakarta] Cannot find session record aa66755459167bf13ebe347d8d2d657e for user 20975, creating new session.
+[11-Dec-2020 00:09:28 Asia/Jakarta] Cannot find session record aa66755459167bf13ebe347d8d2d657e for user 20975, creating new session.
+[11-Dec-2020 00:09:28 Asia/Jakarta] Cannot find session record aa66755459167bf13ebe347d8d2d657e for user 20975, creating new session.
+[11-Dec-2020 00:09:28 Asia/Jakarta] Cannot find session record aa66755459167bf13ebe347d8d2d657e for user 20975, creating new session.
+[11-Dec-2020 00:09:28 Asia/Jakarta] Cannot find session record aa66755459167bf13ebe347d8d2d657e for user 20975, creating new session.
+[11-Dec-2020 00:09:28 Asia/Jakarta] Cannot find session record aa66755459167bf13ebe347d8d2d657e for user 20975, creating new session.
+[11-Dec-2020 00:09:28 Asia/Jakarta] Cannot find session record aa66755459167bf13ebe347d8d2d657e for user 20975, creating new session.
+[11-Dec-2020 00:09:28 Asia/Jakarta] Cannot find session record aa66755459167bf13ebe347d8d2d657e for user 20975, creating new session.
+[11-Dec-2020 00:09:28 Asia/Jakarta] Cannot find session record aa66755459167bf13ebe347d8d2d657e for user 20975, creating new session.
+[11-Dec-2020 00:09:28 Asia/Jakarta] Cannot find session record aa66755459167bf13ebe347d8d2d657e for user 20975, creating new session.
+[11-Dec-2020 00:09:28 Asia/Jakarta] Cannot find session record aa66755459167bf13ebe347d8d2d657e for user 20975, creating new session.
+[11-Dec-2020 00:09:28 Asia/Jakarta] Cannot find session record aa66755459167bf13ebe347d8d2d657e for user 20975, creating new session.
+[11-Dec-2020 00:09:28 Asia/Jakarta] Cannot find session record aa66755459167bf13ebe347d8d2d657e for user 20975, creating new session.
+[11-Dec-2020 00:09:28 Asia/Jakarta] Cannot find session record aa66755459167bf13ebe347d8d2d657e for user 20975, creating new session.
+[11-Dec-2020 00:09:28 Asia/Jakarta] Cannot find session record aa66755459167bf13ebe347d8d2d657e for user 20975, creating new session.
+[11-Dec-2020 00:09:28 Asia/Jakarta] Cannot find session record aa66755459167bf13ebe347d8d2d657e for user 20975, creating new session.
+[11-Dec-2020 00:09:28 Asia/Jakarta] Cannot find session record aa66755459167bf13ebe347d8d2d657e for user 20975, creating new session.
+[11-Dec-2020 00:09:28 Asia/Jakarta] Cannot find session record aa66755459167bf13ebe347d8d2d657e for user 20975, creating new session.
+[11-Dec-2020 00:09:28 Asia/Jakarta] Cannot find session record aa66755459167bf13ebe347d8d2d657e for user 20975, creating new session.
+[11-Dec-2020 00:09:28 Asia/Jakarta] Cannot find session record aa66755459167bf13ebe347d8d2d657e for user 20975, creating new session.
+[11-Dec-2020 00:09:28 Asia/Jakarta] Cannot find session record aa66755459167bf13ebe347d8d2d657e for user 20975, creating new session.
+[11-Dec-2020 00:09:28 Asia/Jakarta] Cannot find session record aa66755459167bf13ebe347d8d2d657e for user 20975, creating new session.
+[11-Dec-2020 00:09:28 Asia/Jakarta] Cannot find session record aa66755459167bf13ebe347d8d2d657e for user 20975, creating new session.
+[11-Dec-2020 00:09:28 Asia/Jakarta] Cannot find session record aa66755459167bf13ebe347d8d2d657e for user 20975, creating new session.
+[11-Dec-2020 00:09:28 Asia/Jakarta] Cannot find session record aa66755459167bf13ebe347d8d2d657e for user 20975, creating new session.
+[11-Dec-2020 00:09:28 Asia/Jakarta] Cannot find session record aa66755459167bf13ebe347d8d2d657e for user 20975, creating new session.
+[11-Dec-2020 00:09:28 Asia/Jakarta] Cannot find session record aa66755459167bf13ebe347d8d2d657e for user 20975, creating new session.
+[11-Dec-2020 00:09:28 Asia/Jakarta] Cannot find session record aa66755459167bf13ebe347d8d2d657e for user 20975, creating new session.
+[11-Dec-2020 00:09:28 Asia/Jakarta] Cannot find session record aa66755459167bf13ebe347d8d2d657e for user 20975, creating new session.
+[11-Dec-2020 00:09:28 Asia/Jakarta] Cannot find session record aa66755459167bf13ebe347d8d2d657e for user 20975, creating new session.
+[11-Dec-2020 00:09:28 Asia/Jakarta] Cannot find session record aa66755459167bf13ebe347d8d2d657e for user 20975, creating new session.
+[11-Dec-2020 00:09:28 Asia/Jakarta] Cannot find session record aa66755459167bf13ebe347d8d2d657e for user 20975, creating new session.
+[11-Dec-2020 00:09:28 Asia/Jakarta] Cannot find session record aa66755459167bf13ebe347d8d2d657e for user 20975, creating new session.
+[11-Dec-2020 00:09:28 Asia/Jakarta] Cannot find session record aa66755459167bf13ebe347d8d2d657e for user 20975, creating new session.
+[11-Dec-2020 00:09:28 Asia/Jakarta] Cannot find session record aa66755459167bf13ebe347d8d2d657e for user 20975, creating new session.
+[11-Dec-2020 00:09:28 Asia/Jakarta] Cannot find session record aa66755459167bf13ebe347d8d2d657e for user 20975, creating new session.
+[11-Dec-2020 00:09:28 Asia/Jakarta] Cannot find session record aa66755459167bf13ebe347d8d2d657e for user 20975, creating new session.
+[11-Dec-2020 00:09:28 Asia/Jakarta] Cannot find session record aa66755459167bf13ebe347d8d2d657e for user 20975, creating new session.
+[11-Dec-2020 00:09:28 Asia/Jakarta] Cannot find session record aa66755459167bf13ebe347d8d2d657e for user 20975, creating new session.
+[11-Dec-2020 00:09:28 Asia/Jakarta] Cannot find session record aa66755459167bf13ebe347d8d2d657e for user 20975, creating new session.
+[11-Dec-2020 00:09:28 Asia/Jakarta] Cannot find session record aa66755459167bf13ebe347d8d2d657e for user 20975, creating new session.
+[11-Dec-2020 00:09:28 Asia/Jakarta] Cannot find session record aa66755459167bf13ebe347d8d2d657e for user 20975, creating new session.
+[11-Dec-2020 00:09:28 Asia/Jakarta] Cannot find session record aa66755459167bf13ebe347d8d2d657e for user 20975, creating new session.
+[11-Dec-2020 00:09:28 Asia/Jakarta] Cannot find session record aa66755459167bf13ebe347d8d2d657e for user 20975, creating new session.
+[11-Dec-2020 00:09:28 Asia/Jakarta] Cannot find session record aa66755459167bf13ebe347d8d2d657e for user 20975, creating new session.
+[11-Dec-2020 00:09:28 Asia/Jakarta] Cannot find session record aa66755459167bf13ebe347d8d2d657e for user 20975, creating new session.
+[11-Dec-2020 00:09:28 Asia/Jakarta] Cannot find session record aa66755459167bf13ebe347d8d2d657e for user 20975, creating new session.
+[11-Dec-2020 00:09:28 Asia/Jakarta] Cannot find session record aa66755459167bf13ebe347d8d2d657e for user 20975, creating new session.
+[11-Dec-2020 00:09:28 Asia/Jakarta] Cannot find session record aa66755459167bf13ebe347d8d2d657e for user 20975, creating new session.
+[11-Dec-2020 00:09:28 Asia/Jakarta] Cannot find session record aa66755459167bf13ebe347d8d2d657e for user 20975, creating new session.
+[11-Dec-2020 07:03:42 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[11-Dec-2020 08:53:23 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Coding error detected, it must be fixed by a programmer: Failed to unserialise data from file. Either failed to read, or failed to write.
+[11-Dec-2020 09:01:22 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[11-Dec-2020 10:41:23 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[11-Dec-2020 13:46:16 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[11-Dec-2020 13:46:16 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[11-Dec-2020 15:53:51 Asia/Jakarta] Cannot find session record e6731a0d4d66c707d7f073abe729845c for user 21075, creating new session.
+[12-Dec-2020 09:15:24 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[12-Dec-2020 18:10:09 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[13-Dec-2020 11:35:30 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[13-Dec-2020 12:50:37 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[13-Dec-2020 14:31:40 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[13-Dec-2020 15:58:03 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[13-Dec-2020 16:41:47 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[13-Dec-2020 19:32:41 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[13-Dec-2020 20:08:09 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[13-Dec-2020 23:49:59 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[13-Dec-2020 23:50:23 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[14-Dec-2020 09:24:21 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[15-Dec-2020 10:56:16 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[16-Dec-2020 05:54:39 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[16-Dec-2020 08:12:57 Asia/Jakarta] Cannot find session record 22f6502c40eb5f5b3ff109da2c009f91 for user 21663, creating new session.
+[21-Dec-2020 01:23:59 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[21-Dec-2020 07:31:06 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[21-Dec-2020 13:04:31 Asia/Jakarta] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database

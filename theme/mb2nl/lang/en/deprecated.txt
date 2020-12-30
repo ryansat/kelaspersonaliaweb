@@ -1,0 +1,3 @@
+pagelogin,theme_mb2nl
+socialmargindesc,theme_mb2nl
+naviconfsize,theme_mb2nl

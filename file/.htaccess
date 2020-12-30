@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "file"
+AuthUserFile "/home/u7147375/.htpasswds/public_html/file/passwd"
+require valid-user
