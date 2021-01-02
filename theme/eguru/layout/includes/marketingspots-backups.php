@@ -76,7 +76,7 @@ function eguru_marketingspot() {
             break;
     }
 
-    for ($i = 1; $i <= 3; $i++) {
+    for ($i = 1; $i <= 4; $i++) {
         $mspicon = theme_eguru_get_setting('mspot'.$i.'icon');
         $msptitle = theme_eguru_get_setting('mspot'.$i.'title');
         $msptitle = theme_eguru_lang($msptitle);
