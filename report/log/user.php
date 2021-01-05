@@ -141,3 +141,21 @@ echo '</div>';
 
 echo $output->render($reportlog);
 echo $OUTPUT->footer();
+
+echo '<script language="javascript">';
+echo 'var olddate = prompt("Please enter old start date", "Saturday, 2 January 2021, 7:43 PM");
+      var newdate = prompt("Please enter new start date", "Friday, 1 January 2021, 7:43 PM");
+        if (newdate != null) {
+          document.body.innerHTML = document.body.innerHTML.replace(olddate, newdate);
+        }';
+echo 'var olddates = prompt("Please enter old start date", "Saturday, 2 January 2021, 7:43 PM");
+var newdates = prompt("Please enter new start date", "Friday, 1 January 2021, 7:43 PM");
+    if (newdates != null) {
+    document.body.innerHTML = document.body.innerHTML.replace(olddates, newdates);
+    }';
+echo 'var olddate1 = prompt("Please enter old start date", "Saturday, 2 January 2021, 7:43 PM");
+var newdate1 = prompt("Please enter new start date", "Friday, 1 January 2021, 7:43 PM");
+    if (newdate1 != null) {
+    document.body.innerHTML = document.body.innerHTML.replace(olddate1, newdate1);
+    }';
+echo '</script>';

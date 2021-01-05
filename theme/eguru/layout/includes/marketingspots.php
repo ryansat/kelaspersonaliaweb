@@ -91,8 +91,13 @@ function eguru_marketingspot() {
                 $content .= html_writer::start_tag('div', array('class' => 'ebox-head'));
 
                     $content .= html_writer::start_tag('div', array('class' => 'rcthumb'));
-                        $content .= html_writer::start_tag('i', array('class' => 'fa fa-'.$mspicon));
-                        $content .= html_writer::end_tag('i');
+                        if ($i == 3){
+                            $content .= html_writer::start_tag('img', array('src' => 'https://kelaspersonalia.id/assets/mics.png', 'width'=>"50", 'height'=>"81"));
+                            $content .= html_writer::end_tag('img');
+                        }else{
+                            $content .= html_writer::start_tag('i', array('class' => 'fa fa-'.$mspicon));
+                            $content .= html_writer::end_tag('i');
+                        }
                     $content .= html_writer::end_tag('div');
                 $content .= html_writer::end_tag('div');
             }

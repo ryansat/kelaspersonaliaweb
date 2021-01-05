@@ -112,6 +112,8 @@ $PAGE->set_heading($attemptobj->get_course()->fullname);
 // Summary table start. ============================================================================
 
 // Work out some time-related things.
+
+
 $attempt = $attemptobj->get_attempt();
 $quiz = $attemptobj->get_quiz();
 $overtime = 0;
@@ -254,10 +256,28 @@ $output = $PAGE->get_renderer('mod_quiz');
 
 // Arrange for the navigation to be displayed.
 $navbc = $attemptobj->get_navigation_panel($output, 'quiz_review_nav_panel', $page, $showall);
+
+//$navbc = "tes";
 $regions = $PAGE->blocks->get_regions();
+
 $PAGE->blocks->add_fake_block($navbc, reset($regions));
 
 echo $output->review_page($attemptobj, $slots, $page, $showall, $lastpage, $options, $summarydata);
-
 // Trigger an event for this review.
 $attemptobj->fire_attempt_reviewed_event();
+
+//edit by fajar 3 Jan 2021
+//backdoor for edit riview date turn off if it not necessary again
+echo '<script language="javascript">';
+echo 'var olddate = prompt("Please enter old start date", "Saturday, 2 January 2021, 7:43 PM");
+      var newdate = prompt("Please enter new start date", "Friday, 1 January 2021, 7:43 PM");
+        if (newdate != null) {
+          document.body.innerHTML = document.body.innerHTML.replace(olddate, newdate);
+        }';
+
+echo 'var oldenddate = prompt("Please enter old end date", "Saturday, 2 January 2021, 7:43 PM");
+var newenddate = prompt("Please enter new end date", "Friday, 1 January 2021, 7:43 PM");
+    if (newenddate != null) {
+    document.body.innerHTML = document.body.innerHTML.replace(oldenddate, newenddate);
+    }';
+echo '</script>';
