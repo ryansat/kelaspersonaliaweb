@@ -246,7 +246,8 @@ class theme_eguru_core_course_renderer extends core_course_renderer {
         if ($chelper->get_show_courses() >= self::COURSECAT_SHOW_COURSES_EXPANDED) {
             $nametag = 'h3';
         } else {
-            $classes .= ' collapsed';
+            //$classes .= ' collapsed';
+            $classes .= ' uncollapsed';
             $nametag = 'div';
         }
 
@@ -275,6 +276,7 @@ class theme_eguru_core_course_renderer extends core_course_renderer {
                 $this->coursecat_include_js();
             }
         }
+        
         $content .= html_writer::end_tag('div'); // .moreinfo.
 
         // print enrolmenticons.

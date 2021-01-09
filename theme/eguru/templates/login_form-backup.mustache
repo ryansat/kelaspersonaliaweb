@@ -219,6 +219,26 @@
     </div>
 </div>
 
+{{#cansignup}}
+<div class="custom-signuppanel">
+    <div class="card">
+        <div class="card-block">
+            <div class="card-title">
+                <h2>{{#str}}firsttime{{/str}}</h2>
+            </div>
+            <div>
+            {{{instructions}}}
+            {{#cansignup}}
+                <form class="m-t-1" action="{{signupurl}}" method="get" id="signup">
+                    <button type="submit" class="btn btn-secondary">{{#str}}startsignup{{/str}}</button>
+                </form>
+            {{/cansignup}}
+            </div>
+        </div>
+    </div>
+</div>
+{{/cansignup}}
+
 
 
 {{#hasinstructions}}

@@ -89,6 +89,8 @@ class login_signup_form extends moodleform implements renderable, templatable {
             $mform->setDefault('country', '');
         }
 
+        $mform->addElement('static', 'info', '', 'Jika Anda Pemilik Kartu Prakerja Sesuaikan dengan email yg di daftarkan di kemenaker');
+
         profile_signup_fields($mform);
 
         if (signup_captcha_enabled()) {
