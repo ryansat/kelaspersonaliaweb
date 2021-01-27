@@ -94,13 +94,24 @@ function eguru_marketingspot() {
                     if ($i == 3){
                         //$content .= html_writer::end_tag('div');
                         $content .= html_writer::start_tag('div', array('class' => 'rcthumb'));
+                        $content .= html_writer::start_tag('a', array('href' => 'https://bit.ly/38oZ170'));
                         $content .= html_writer::start_tag('img', array('src' => 'https://kelaspersonalia.id/assets/logo.png', 'width'=>"138", 'height'=>"138"));
                         $content .= html_writer::end_tag('img');
+                        $content .= html_writer::end_tag('a');
                         $content .= html_writer::end_tag('div');
-                    }else{
+                    }else if($i == 1){
                         $content .= html_writer::start_tag('div', array('class' => 'rcthumb'));
+                        $content .= html_writer::start_tag('a', array('href' => 'https://kelaspersonalia.id/course/index.php?categoryid=28'));
                         $content .= html_writer::start_tag('i', array('class' => 'fa fa-'.$mspicon));
                         $content .= html_writer::end_tag('i');
+                        $content .= html_writer::end_tag('a');
+                        $content .= html_writer::end_tag('div');
+                    }else if($i == 2){
+                        $content .= html_writer::start_tag('div', array('class' => 'rcthumb'));
+                        $content .= html_writer::start_tag('a', array('href' => 'https://kelaspersonalia.id/underconst.html'));
+                        $content .= html_writer::start_tag('i', array('class' => 'fa fa-'.$mspicon));
+                        $content .= html_writer::end_tag('i');
+                        $content .= html_writer::end_tag('a');
                         $content .= html_writer::end_tag('div');
                     }
                 $content .= html_writer::end_tag('div');
@@ -121,6 +132,24 @@ function eguru_marketingspot() {
                     $content .= html_writer::end_tag('img');
                     $content .= html_writer::end_tag('a');
                     $content .= html_writer::end_tag('p');
+                }else if($i == 2){
+                    $content .= html_writer::start_tag('h6');
+                    $content .= $msptitle;
+                    $content .= html_writer::end_tag('h6');
+                    $content .= html_writer::start_tag('a', array('href' => 'https://kelaspersonalia.id/course/index.php?categoryid=28'));
+                    $content .= html_writer::start_tag('p');
+                    $content .= $mspdescription;
+                    $content .= html_writer::end_tag('p');
+                    $content .= html_writer::end_tag('a');
+                }else if($i == 1){
+                    $content .= html_writer::start_tag('h6');
+                    $content .= $msptitle;
+                    $content .= html_writer::end_tag('h6');
+                    $content .= html_writer::start_tag('a', array('href' => 'https://kelaspersonalia.id/underconst.html'));
+                    $content .= html_writer::start_tag('p');
+                    $content .= $mspdescription;
+                    $content .= html_writer::end_tag('p');
+                    $content .= html_writer::end_tag('a');
                 }else{
                     $content .= html_writer::start_tag('h6');
                     $content .= $msptitle;
