@@ -75,7 +75,7 @@ function eguru_marketingspot() {
             $class = 'col-md-3';
             break;
     }
-
+    //edit layout by fajar 27/1/2021
     for ($i = 1; $i <= 3; $i++) {
         $mspicon = theme_eguru_get_setting('mspot'.$i.'icon');
         $msptitle = theme_eguru_get_setting('mspot'.$i.'title');
