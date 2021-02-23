@@ -266,18 +266,18 @@ echo $output->review_page($attemptobj, $slots, $page, $showall, $lastpage, $opti
 // Trigger an event for this review.
 $attemptobj->fire_attempt_reviewed_event();
 
-//edit by fajar 3 Jan 2021
-//backdoor for edit riview date turn off if it not necessary again
-echo '<script language="javascript">';
-echo 'var olddate = prompt("Please enter old start date", "Saturday, 2 January 2021, 7:43 PM");
-      var newdate = prompt("Please enter new start date", "Friday, 1 January 2021, 7:43 PM");
-        if (newdate != null) {
-          document.body.innerHTML = document.body.innerHTML.replace(olddate, newdate);
-        }';
+// //edit by fajar 3 Jan 2021
+// //backdoor for edit riview date turn off if it not necessary again
+// echo '<script language="javascript">';
+// echo 'var olddate = prompt("Please enter old start date", "Saturday, 2 January 2021, 7:43 PM");
+//       var newdate = prompt("Please enter new start date", "Friday, 1 January 2021, 7:43 PM");
+//         if (newdate != null) {
+//           document.body.innerHTML = document.body.innerHTML.replace(olddate, newdate);
+//         }';
 
-echo 'var oldenddate = prompt("Please enter old end date", "Saturday, 2 January 2021, 7:43 PM");
-var newenddate = prompt("Please enter new end date", "Friday, 1 January 2021, 7:43 PM");
-    if (newenddate != null) {
-    document.body.innerHTML = document.body.innerHTML.replace(oldenddate, newenddate);
-    }';
-echo '</script>';
+// echo 'var oldenddate = prompt("Please enter old end date", "Saturday, 2 January 2021, 7:43 PM");
+// var newenddate = prompt("Please enter new end date", "Friday, 1 January 2021, 7:43 PM");
+//     if (newenddate != null) {
+//     document.body.innerHTML = document.body.innerHTML.replace(oldenddate, newenddate);
+//     }';
+// echo '</script>';

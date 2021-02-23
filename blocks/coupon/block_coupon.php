@@ -136,6 +136,8 @@ class block_coupon extends block_base {
                     <input type='hidden' name='submitbutton' value='Submit Coupon' />
                     <input type='hidden' name='_qf__block_coupon_forms_coupon_validator' value='1' />
                     <input type='hidden' name='sesskey' value='" . sesskey() . "' />
+                    <br>
+                    <h4>BILA KUPON SUDAH DI SUBMIT LANGSUNG KLIK SAJA GAMBAR KELAS</h4>
                 </form>";
 
             $displayinputhelp = (bool)get_config('block_coupon', 'displayinputhelp');

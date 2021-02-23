@@ -8,6 +8,7 @@ $CFG = new stdClass();
 //backup setting
 //$CFG->theme     = 'boost';
 // $CFG->dbsessions=0;
+$CFG->lang      ="id";
 $CFG->debug     = (E_ALL | E_STRICT);
 $CFG->dbtype    = 'mysqli';
 $CFG->dblibrary = 'native';

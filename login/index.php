@@ -35,7 +35,7 @@ $anchor      = optional_param('anchor', '', PARAM_RAW);      // Used to restore 
 $resendconfirmemail = optional_param('resendconfirmemail', false, PARAM_BOOL);
 
 $context = context_system::instance();
-$PAGE->set_url("$CFG->wwwroot/login/index.php");
+$PAGE->set_url("$CFG->wwwroot/login/index.php?lang=id");
 $PAGE->set_context($context);
 $PAGE->set_pagelayout('login');
 
@@ -183,7 +183,7 @@ if ($frm and isset($frm->username)) {                             // Login WITH 
                 }
             }
             echo $OUTPUT->box(get_string("emailconfirmsent", "", $user->email), "generalbox boxaligncenter");
-            $resendconfirmurl = new moodle_url('/login/index.php',
+            $resendconfirmurl = new moodle_url('/login/index.php?lang=id',
                 [
                     'username' => $frm->username,
                     'password' => $frm->password,
@@ -291,7 +291,7 @@ if (empty($SESSION->wantsurl)) {
             $referer != $CFG->wwwroot . '/' &&
             $referer != $CFG->wwwroot . '/login/' &&
             strpos($referer, $CFG->wwwroot . '/login/?') !== 0 &&
-            strpos($referer, $CFG->wwwroot . '/login/index.php') !== 0) { // There might be some extra params such as ?lang=.
+            strpos($referer, $CFG->wwwroot . '/login/index.php?lang=id') !== 0) { // There might be some extra params such as ?lang=.
         $SESSION->wantsurl = $referer;
     }
 }
@@ -346,7 +346,7 @@ if (!empty($SESSION->loginerrormsg)) {
     if ($errormsg) {
         $SESSION->loginerrormsg = $errormsg;
     }
-    redirect(new moodle_url('/login/index.php'));
+    redirect(new moodle_url('/login/index.php?lang=id'));
 }
 
 $PAGE->set_title("$site->fullname: $loginsite");
