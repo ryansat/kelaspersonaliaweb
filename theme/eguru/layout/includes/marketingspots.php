@@ -76,7 +76,7 @@ function eguru_marketingspot() {
             break;
     }
     //edit layout by fajar 27/1/2021
-    for ($i = 1; $i <= 3; $i++) {
+    for ($i = 1; $i <= 4; $i++) {
         $mspicon = theme_eguru_get_setting('mspot'.$i.'icon');
         $msptitle = theme_eguru_get_setting('mspot'.$i.'title');
         $msptitle = theme_eguru_lang($msptitle);
@@ -154,10 +154,12 @@ function eguru_marketingspot() {
                     $content .= $mspdescription;
                     $content .= html_writer::end_tag('p');
                     $content .= html_writer::end_tag('a');
-                }else{
+                }else if($i == 4){
                     $content .= html_writer::start_tag('h6');
                     $content .= $msptitle;
                     $content .= html_writer::end_tag('h6');
+                    $content .= html_writer::start_tag('a', array('href' => 'https://kelaspersonalia.id/videotutor/helptutor.html'));
+                    $content .= html_writer::start_tag('img', array('src' => 'https://kelaspersonalia.id/assets/help.png', 'width'=>"138", 'height'=>"138"));
 
                     $content .= html_writer::start_tag('p');
                     $content .= $mspdescription;
